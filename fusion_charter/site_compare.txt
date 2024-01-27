@@ -1,0 +1,169 @@
+68	Abaddon	Devil
+56	Alice	Death
+84	Alilat	Empress
+6	Alp	Lovers
+75	Ananta	Aeon
+4	Angel	Justice
+59	Anubis	Judgment
+3	Apsaras	Priestess
+6	Ara Mitama	Chariot
+60	Arahabaki	Hermit
+10	Archangel	Justice
+19	Ares	Chariot
+85	Asura	Sun
+80	Atavaka	Aeon
+54	Atropos	Fortune
+67	Attis	Hanged Man
+71	Baal Zebul	Moon
+52	Barong	Emperor
+81	Beelzebub	Devil
+13	Berith	Hierophant
+60	Bishamonten	Tower
+34	Black Frost	Fool
+57	Byakko	Temperance
+58	Chernobog	Moon
+86	Chi You	Tower
+9	Chimera	Chariot
+38	Clotho	Fortune
+40	Cu Chulainn	Tower
+68	Cybele	Lovers
+53	Daisoujou	Hierophant
+50	Decarabia	Fool
+48	Dionysus	Moon
+42	Dominion	Justice
+31	Eligor	Tower
+23	Empusa	Fortune
+33	Flauros	Hierophant
+7	Forneus	Emperor
+17	Fortuna	Fortune
+69	Gabriel	Empress
+58	Ganesha	Star
+35	Ganga	Priestess
+65	Garuda	Star
+29	Genbu	Temperance
+18	Ghoul	Death
+42	Girimehkala	Moon
+15	Gurr	Moon
+37	Hanuman	Strength
+62	Hariti	Empress
+54	Hecatoncheires	Hanged Man
+88	Helel	Star
+60	Hell Biker	Hanged Man
+21	High Pixie	Priestess
+47	Hokuto Seikun	Hierophant
+63	Horus	Sun
+20	Hua Po	Magician
+34	Incubus	Devil
+10	Inugami	Hanged Man
+8	Jack Frost	Magician
+55	Jatayu	Sun
+29	Jikokuten	Strength
+49	Kaiwan	Star
+55	Kali	Strength
+70	Kartikeya	Star
+53	Kikuri-hime	Priestess
+30	King Frost	Emperor
+46	Kingu	Emperor
+66	Kohryu	Hierophant
+43	Koumokuten	Chariot
+56	Kumbhanda	Hermit
+44	Kurama Tengu	Hermit
+29	Kusi Mitama	Fortune
+45	Lachesis	Fortune
+57	Laksmi	Empress
+25	Lamia	Hermit
+33	Leanan Sidhe	Empress
+22	Legion	Fool
+8	Lilim	Devil
+61	Lilith	Devil
+31	Loa	Death
+58	Loki	Fool
+89	Lucifer	Judgment
+77	Mara	Tower
+73	Masakado	Tower
+59	Melchizedek	Justice
+90	Messiah	Judgment
+87	Metatron	Aeon
+72	Michael	Judgment
+22	Mithra	Temperance
+45	Mot	Death
+74	Mother Harlot	Empress
+32	Mothman	Hermit
+17	Naga	Hermit
+39	Nandi	Star
+46	Narasimha	Strength
+20	Narcissus	Lovers
+37	Nata Taishi	Chariot
+50	Nebiros	Hermit
+5	Nekomata	Magician
+69	Nidhoggr	Aeon
+12	Nigi Mitama	Temperance
+62	Norn	Fortune
+15	Oberon	Emperor
+57	Odin	Emperor
+44	Okuninushi	Temperance
+7	Omoikane	Hierophant
+34	Orobas	Magician
+1	Orpheus	Fool
+90	Orpheus Telos	Fool
+28	Orthrus	Hanged Man
+44	Ose	Fool
+30	Oumitsunu	Chariot
+24	Pale Rider	Death
+47	Parvati	Priestess
+52	Pazuzu	Devil
+2	Pixie	Lovers
+25	Power	Justice
+16	Principality	Justice
+14	Pyro Jack	Magician
+27	Queen Mab	Lovers
+43	Quetzalcoatl	Sun
+36	Raja Naga	Emperor
+16	Rakshasa	Strength
+40	Rangda	Magician
+61	Raphael	Lovers
+39	Saki Mitama	Lovers
+37	Samael	Death
+74	Sandalphon	Moon
+27	Sarasvati	Priestess
+79	Satan	Judgment
+28	Sati	Magician
+78	Saturnus	Star
+64	Scathach	Priestess
+36	Seiryuu	Temperance
+67	Seiten Taisei	Tower
+66	Seth	Moon
+26	Shiisaa	Hierophant
+82	Shiva	Tower
+59	Siegfried	Strength
+80	Skadi	Empress
+12	Slime	Fool
+43	Succubus	Devil
+70	Suparna	Sun
+52	Surt	Magician
+76	Susano-o	Fool
+51	Suzaku	Temperance
+24	Take-mikazuchi	Emperor
+21	Take-minakata	Hanged Man
+38	Taraka	Hermit
+64	Thanatos	Death
+53	Thor	Chariot
+41	Thoth	Hierophant
+51	Throne	Justice
+23	Titan	Strength
+48	Titania	Lovers
+65	Trumpeter	Judgment
+48	Ubelluris	Hanged Man
+11	Unicorn	Priestess
+63	Uriel	Aeon
+11	Valkyrie	Strength
+38	Vasuki	Hanged Man
+24	Vetala	Devil
+32	Virtue	Justice
+78	Vishnu	Sun
+50	Yaksini	Empress
+26	Yamatano-orochi	Moon
+30	Yatagarasu	Sun
+9	Yomotsu Shikome	Hermit
+64	Yurlungur	Temperance
+14	Zouchouten	Chariot
