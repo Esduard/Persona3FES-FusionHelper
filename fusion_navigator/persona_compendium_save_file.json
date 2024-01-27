@@ -1,0 +1,1610 @@
+[
+    {   "name": "Pixie", 
+        "level": 3, 
+        "skills": [
+            "Dia"
+        ]
+    },
+    {
+        "name": "Orpheus",
+        "level": 4,
+        "skills": [
+            "Bash",
+            "Agi"
+        ]
+    },
+    {
+        "name": "Apsaras",
+        "level": 5,
+        "skills": [
+            "Posumudi",
+            "Sukunda",
+            "Bufu"
+        ]
+    },
+    {
+        "name": "Nekomata",
+        "level": 5,
+        "skills": [
+            "Agi",
+            "Cleave"
+        ]
+    },
+    {
+        "name": "Alp",
+        "level": 6,
+        "skills": [
+            "Dia",
+            "Sukunda",
+            "Garu"
+        ]
+    },
+    {
+        "name": "Omoikane",
+        "level": 7,
+        "skills": [
+            "Zio",
+            "Dia"
+        ]
+    },
+    {
+        "name": "Forneus",
+        "level": 7,
+        "skills": [
+            "Bash",
+            "Tarukaja",
+            "Bufu"
+        ]
+    },
+    {
+        "name": "Angel",
+        "level": 8,
+        "skills": [
+            "Patra",
+            "Sukukaja",
+            "Hama",
+            "Garu",
+            "Charmdi"
+        ]
+    },
+    {
+        "name": "Ara Mitama",
+        "level": 9,
+        "skills": [
+            "Bash",
+            "Agi",
+            "Rakunda",
+            "Sukukaja",
+            "Diarama"
+        ]
+    },
+    {
+        "name": "Chimera",
+        "level": 9,
+        "skills": [
+            "Cleave",
+            "Agi",
+            "Bewilder"
+        ]
+    },
+    {
+        "name": "Inugami",
+        "level": 10,
+        "skills": [
+            "Poisma",
+            "Single Shot",
+            "Zio"
+        ]
+    },
+    {
+        "name": "Archangel",
+        "level": 10,
+        "skills": [
+            "Sukukaja",
+            "Cleave",
+            "Hama"
+        ]
+    },
+    {
+        "name": "Yomotsu Shikome",
+        "level": 11,
+        "skills": [
+            "Evil Touch",
+            "Tarunda",
+            "Bufu",
+            "Auto-Tarukaja"
+        ]
+    },
+    {
+        "name": "Unicorn",
+        "level": 11,
+        "skills": [
+            "Dia",
+            "Poisma",
+            "Hama"
+        ]
+    },
+    {
+        "name": "Jack Frost",
+        "level": 11,
+        "skills": [
+            "Re Patra",
+            "Patra",
+            "Dia",
+            "Sonic Punch",
+            "Ice Boost",
+            "Diarama",
+            "Bufu"
+        ]
+    },
+    {
+        "name": "Slime",
+        "level": 12,
+        "skills": [
+            "Single Shot",
+            "Evil Touch"
+        ]
+    },
+    {
+        "name": "Lilim",
+        "level": 13,
+        "skills": [
+            "Agi",
+            "Zio",
+            "Rakunda",
+            "Sukukaja",
+            "Rakukaja",
+            "Dodge Slash",
+            "Mazio",
+            "Mudo"
+        ]
+    },
+    {
+        "name": "Zouchouten",
+        "level": 14,
+        "skills": [
+            "Bash",
+            "Zio",
+            "Tarukaja"
+        ]
+    },
+    {
+        "name": "Nigi Mitama",
+        "level": 16,
+        "skills": [
+            "Patra",
+            "Posumudi",
+            "Re Patra",
+            "Cool Breeze",
+            "Media",
+            "Magaru",
+            "Garu",
+            "Tarukaja"
+        ]
+    },
+    {
+        "name": "Rakshasa",
+        "level": 16,
+        "skills": [
+            "Power Slash",
+            "Dodge Slash"
+        ]
+    },
+    {
+        "name": "Principality",
+        "level": 16,
+        "skills": [
+            "Dodge Elec",
+            "Holy Arrow",
+            "Hama"
+        ]
+    },
+    {
+        "name": "Valkyrie",
+        "level": 17,
+        "skills": [
+            "Cleave",
+            "Dodge Slash",
+            "Bash",
+            "Tarukaja",
+            "Auto-Sukukaja",
+            "Power Slash",
+            "Auto-Tarukaja",
+            "Mabufu"
+        ]
+    },
+    {
+        "name": "Naga",
+        "level": 17,
+        "skills": [
+            "Double Fangs",
+            "Rakukaja",
+            "Bewilder"
+        ]
+    },
+    {
+        "name": "Oberon",
+        "level": 18,
+        "skills": [
+            "Zio",
+            "Media",
+            "Marin Karin",
+            "Dia",
+            "Survive Dark",
+            "Mazio",
+            "Zan-ei"
+        ]
+    },
+    {
+        "name": "Pyro Jack",
+        "level": 18,
+        "skills": [
+            "Agi",
+            "Sukunda",
+            "Maragi",
+            "Hama",
+            "Cleave",
+            "Provoke",
+            "Rage Boost",
+            "Tarukaja"
+        ]
+    },
+    {
+        "name": "Ares",
+        "level": 19,
+        "skills": [
+            "Rakunda",
+            "Zan-ei"
+        ]
+    },
+    {
+        "name": "Berith",
+        "level": 19,
+        "skills": [
+            "Agi",
+            "Tarukaja",
+            "Double Fangs",
+            "Auto-Tarukaja",
+            "Rebellion",
+            "Maragi"
+        ]
+    },
+    {
+        "name": "Gurr",
+        "level": 20,
+        "skills": [
+            "Auto-Tarukaja",
+            "Ice Boost",
+            "Sonic Punch",
+            "Sukukaja",
+            "Raging Tiger",
+            "Twin Shot",
+            "Dodge Strike",
+            "Poison Mist"
+        ]
+    },
+    {
+        "name": "Narcissus",
+        "level": 20,
+        "skills": [
+            "Marin Karin",
+            "Charm Boost",
+            "Magaru",
+            "Sukunda",
+            "Bufu"
+        ]
+    },
+    {
+        "name": "High Pixie",
+        "level": 21,
+        "skills": [
+            "Holy Arrow",
+            "Mabufu"
+        ]
+    },
+    {
+        "name": "Mithra",
+        "level": 22,
+        "skills": [
+            "Double Fangs",
+            "Hama",
+            "Mabufu"
+        ]
+    },
+    {
+        "name": "Take-Minakata",
+        "level": 22,
+        "skills": [
+            "Zio",
+            "Mazio",
+            "Survive Light"
+        ]
+    },
+    {
+        "name": "Legion",
+        "level": 22,
+        "skills": [
+            "Assault Dive",
+            "Pulinpa",
+            "Rebellion"
+        ]
+    },
+    {
+        "name": "Ghoul",
+        "level": 23,
+        "skills": [
+            "Wind Amp",
+            "Panta Rhei",
+            "Mamudo",
+            "Maragi",
+            "Zan-ei",
+            "Dekaja",
+            "Provoke",
+            "Gale Slash"
+        ]
+    },
+    {
+        "name": "Lamia",
+        "level": 25,
+        "skills": [
+            "Bewilder",
+            "Agilao",
+            "Raging Tiger"
+        ]
+    },
+    {
+        "name": "Titan",
+        "level": 27,
+        "skills": [
+            "Mudo",
+            "Sukunda",
+            "Kill Rush",
+            "Dodge Slash",
+            "Mamudo",
+            "Zan-ei",
+            "Tarukaja"
+        ]
+    },
+    {
+        "name": "Queen Mab",
+        "level": 27,
+        "skills": [
+            "Posumudi",
+            "Rakunda",
+            "Rakukaja"
+        ]
+    },
+    {
+        "name": "Sarasvati",
+        "level": 28,
+        "skills": [
+            "Posumudi",
+            "Bufula",
+            "Me Patra",
+            "Mabufu"
+        ]
+    },
+    {
+        "name": "Sati",
+        "level": 28,
+        "skills": [
+            "Agilao",
+            "Media",
+            "Maragi"
+        ]
+    },
+    {
+        "name": "Vetala",
+        "level": 29,
+        "skills": [
+            "Tentarafoo",
+            "Rebellion",
+            "Provoke",
+            "Zio",
+            "Dekaja",
+            "Foul Breath",
+            "Kill Rush",
+            "Maragi"
+        ]
+    },
+    {
+        "name": "Pale Rider",
+        "level": 29,
+        "skills": [
+            "Mudoon",
+            "Panta Rhei",
+            "Wind Amp",
+            "Life Drain",
+            "Counter",
+            "Survive Light",
+            "Zan-ei",
+            "Garula"
+        ]
+    },
+    {
+        "name": "Jikokuten",
+        "level": 29,
+        "skills": [
+            "Sukunda",
+            "Zan-ei",
+            "Auto-Sukukaja"
+        ]
+    },
+    {
+        "name": "Fortuna",
+        "level": 30,
+        "skills": [
+            "Bufu",
+            "Dodge Wind",
+            "Magaru",
+            "Rakukaja",
+            "Wind Boost",
+            "Garu"
+        ]
+    },
+    {
+        "name": "Power",
+        "level": 30,
+        "skills": [
+            "Magaru",
+            "Mahama",
+            "Media",
+            "Zio",
+            "Me Patra",
+            "Revolution",
+            "Hama",
+            "Zan-ei"
+        ]
+    },
+    {
+        "name": "King Frost",
+        "level": 30,
+        "skills": [
+            "Bufula",
+            "Dodge Fire",
+            "Mabufu"
+        ]
+    },
+    {
+        "name": "Yatagarasu",
+        "level": 31,
+        "skills": [
+            "Sukukaja",
+            "Cool Breeze",
+            "Tarukaja",
+            "Posumudi",
+            "Media",
+            "Masukunda",
+            "Diarama",
+            "Zan-ei"
+        ]
+    },
+    {
+        "name": "Yamatano-Orochi",
+        "level": 31,
+        "skills": [
+            "Auto-Rakukaja",
+            "Counter",
+            "Dekaja",
+            "Swift Strike",
+            "Ice Boost",
+            "Kill Rush",
+            "Mabufu",
+            "Null Fear"
+        ]
+    },
+    {
+        "name": "Kusi Mitama",
+        "level": 32,
+        "skills": [
+            "Garula",
+            "Re Patra",
+            "Recarm",
+            "Magaru",
+            "Auto-Rakukaja"
+        ]
+    },
+    {
+        "name": "Mothman",
+        "level": 32,
+        "skills": [
+            "Eerie Sound",
+            "Foul Breath"
+        ]
+    },
+    {
+        "name": "Virtue",
+        "level": 32,
+        "skills": [
+            "Infuriate",
+            "Tarukaja",
+            "Mahama"
+        ]
+    },
+    {
+        "name": "Take-Mikazuchi",
+        "level": 32,
+        "skills": [
+            "Mazio",
+            "Pulinpa",
+            "Charmdi",
+            "Getsu-ei",
+            "Elec Break",
+            "Elec Boost",
+            "Auto-Tarukaja",
+            "Zionga"
+        ]
+    },
+    {
+        "name": "Orthrus",
+        "level": 33,
+        "skills": [
+            "Getsu-ei",
+            "Counter",
+            "Dodge Slash",
+            "Rakukaja",
+            "Power Slash",
+            "Fire Boost",
+            "Mighty Swing",
+            "Dodge Ice"
+        ]
+    },
+    {
+        "name": "Leanan Sidhe",
+        "level": 33,
+        "skills": [
+            "Me Patra",
+            "Diarama",
+            "Media"
+        ]
+    },
+    {
+        "name": "Eligor",
+        "level": 34,
+        "skills": [
+            "Twin Shot",
+            "Revolution",
+            "Cleave",
+            "Sukukaja",
+            "Dodge Ice",
+            "Cruel Attack",
+            "Power Slash",
+            "Maragion"
+        ]
+    },
+    {
+        "name": "Incubus",
+        "level": 34,
+        "skills": [
+            "Life Drain",
+            "Evil Smile",
+            "Agilao"
+        ]
+    },
+    {
+        "name": "Oumitsunu",
+        "level": 34,
+        "skills": [
+            "Dodge Pierce",
+            "Rebellion",
+            "Rakunda",
+            "Counter",
+            "Kill Rush",
+            "Bash",
+            "Auto-Tarukaja"
+        ]
+    },
+    {
+        "name": "Orobas",
+        "level": 34,
+        "skills": [
+            "Sharp Student",
+            "Rakukaja",
+            "Garula"
+        ]
+    },
+    {
+        "name": "Black Frost",
+        "level": 34,
+        "skills": [
+            "Agilao",
+            "Bufula",
+            "Mudo"
+        ]
+    },
+    {
+        "name": "Ganga",
+        "level": 35,
+        "skills": [
+            "Charmdi",
+            "Media",
+            "Bufula"
+        ]
+    },
+    {
+        "name": "Loa",
+        "level": 36,
+        "skills": [
+            "Life Drain",
+            "Tarunda",
+            "Zio",
+            "Wind Amp",
+            "Survive Light",
+            "Zionga",
+            "Fear Boost",
+            "Panta Rhei"
+        ]
+    },
+    {
+        "name": "Raja Naga",
+        "level": 36,
+        "skills": [
+            "Twin Shot",
+            "Tentarafoo"
+        ]
+    },
+    {
+        "name": "Nata Taishi",
+        "level": 37,
+        "skills": [
+            "Swift Strike",
+            "Masukukaja"
+        ]
+    },
+    {
+        "name": "Vasuki",
+        "level": 38,
+        "skills": [
+            "Twin Shot",
+            "Mahama"
+        ]
+    },
+    {
+        "name": "Clotho",
+        "level": 38,
+        "skills": [
+            "Charmdi",
+            "Garula"
+        ]
+    },
+    {
+        "name": "Taraka",
+        "level": 38,
+        "skills": [
+            "Getsu-ei",
+            "Eerie Sound",
+            "Tarukaja"
+        ]
+    },
+    {
+        "name": "Flauros",
+        "level": 38,
+        "skills": [
+            "Agilao",
+            "Gale Slash",
+            "Rakunda",
+            "Rakukaja",
+            "Sharp Student",
+            "Mighty Swing",
+            "Evade Wind",
+            "Auto-Sukukaja"
+        ]
+    },
+    {
+        "name": "Saki Mitama",
+        "level": 39,
+        "skills": [
+            "Zionga",
+            "Diarama"
+        ]
+    },
+    {
+        "name": "Nandi",
+        "level": 40,
+        "skills": [
+            "Marin Karin",
+            "Marakukaja",
+            "Sukukaja",
+            "Tarukaja",
+            "Posumudi",
+            "Diarama",
+            "Magarula"
+        ]
+    },
+    {
+        "name": "Hanuman",
+        "level": 40,
+        "skills": [
+            "Getsu-ei",
+            "Counter",
+            "Recarm",
+            "Media",
+            "Fatal End"
+        ]
+    },
+    {
+        "name": "Rangda",
+        "level": 40,
+        "skills": [
+            "Agilao",
+            "Zan-ei"
+        ]
+    },
+    {
+        "name": "Girimehkala",
+        "level": 42,
+        "skills": [
+            "Mighty Swing",
+            "Marakunda"
+        ]
+    },
+    {
+        "name": "Samael",
+        "level": 42,
+        "skills": [
+            "Mamudo",
+            "Masukunda",
+            "Mudoon",
+            "Wind Amp",
+            "Zio",
+            "Megido",
+            "Dekunda",
+            "Panta Rhei"
+        ]
+    },
+    {
+        "name": "Quetzalcoatl",
+        "level": 43,
+        "skills": [
+            "Marakukaja",
+            "Growth 2",
+            "Magarula"
+        ]
+    },
+    {
+        "name": "Cu Chulainn",
+        "level": 43,
+        "skills": [
+            "Torrent Shot",
+            "Matarukaja",
+            "Me Patra",
+            "Auto-Tarukaja",
+            "Tarukaja",
+            "Mazionga",
+            "Power Charge",
+            "Zan-ei"
+        ]
+    },
+    {
+        "name": "Dominion",
+        "level": 43,
+        "skills": [
+            "Infuriate",
+            "Hamaon"
+        ]
+    },
+    {
+        "name": "Koumokuten",
+        "level": 43,
+        "skills": [
+            "Swift Strike",
+            "Cruel Attack",
+            "Dekaja"
+        ]
+    },
+    {
+        "name": "Genbu",
+        "level": 44,
+        "skills": [
+            "Auto-Rakukaja",
+            "Mudo",
+            "Mamudo",
+            "Me Patra",
+            "Dekunda",
+            "Resist Strike",
+            "Bufula",
+            "Sukunda"
+        ]
+    },
+    {
+        "name": "Kurama Tengu",
+        "level": 44,
+        "skills": [
+            "Tentarafoo",
+            "Masukunda",
+            "Growth 1"
+        ]
+    },
+    {
+        "name": "Ose",
+        "level": 44,
+        "skills": [
+            "Gale Slash",
+            "Poison Mist"
+        ]
+    },
+    {
+        "name": "Narasimha",
+        "level": 46,
+        "skills": [
+            "Evade Wind",
+            "Fatal End"
+        ]
+    },
+    {
+        "name": "Kingu",
+        "level": 46,
+        "skills": [
+            "Mediarama",
+            "Evade Fire"
+        ]
+    },
+    {
+        "name": "Hokuto Seikun",
+        "level": 47,
+        "skills": [
+            "Dodge Slash",
+            "Zionga"
+        ]
+    },
+    {
+        "name": "Parvati",
+        "level": 47,
+        "skills": [
+            "Diarama",
+            "Marakukaja",
+            "Bufula"
+        ]
+    },
+    {
+        "name": "Succubus",
+        "level": 48,
+        "skills": [
+            "Sexy Dance",
+            "Mudoon",
+            "Mabufudyne",
+            "Rakunda",
+            "Virus Breath",
+            "Hama Boost",
+            "Ailment Boost",
+            "Null Light"
+        ]
+    },
+    {
+        "name": "Ubelluris",
+        "level": 48,
+        "skills": [
+            "Herculean Strike",
+            "Recarmdra",
+            "Null Distress"
+        ]
+    },
+    {
+        "name": "Titania",
+        "level": 48,
+        "skills": [
+            "Mediarama",
+            "Mind Charge"
+        ]
+    },
+    {
+        "name": "Dionysus",
+        "level": 49,
+        "skills": [
+            "Mazionga",
+            "Mind Charge",
+            "Diarama",
+            "Sukukaja",
+            "Wind Boost",
+            "Rakukaja"
+        ]
+    },
+    {
+        "name": "Mot",
+        "level": 50,
+        "skills": [
+            "Mudoon",
+            "Evil Smile",
+            "Null Fear",
+            "Wind Amp",
+            "Panta Rhei",
+            "Magarula",
+            "Ghastly Wail",
+            "Double Fangs"
+        ]
+    },
+    {
+        "name": "Lachesis",
+        "level": 50,
+        "skills": [
+            "Garula",
+            "Masukukaja",
+            "Rakukaja",
+            "Wind Boost",
+            "Dodge Elec",
+            "Magarula",
+            "Charmdi",
+            "Recarm"
+        ]
+    },
+    {
+        "name": "Yaksini",
+        "level": 50,
+        "skills": [
+            "Sexy Dance",
+            "Fatal End"
+        ]
+    },
+    {
+        "name": "Decarabia",
+        "level": 50,
+        "skills": [
+            "Stagnant Air",
+            "Matarunda",
+            "Megido"
+        ]
+    },
+    {
+        "name": "Kikuri-Hime",
+        "level": 53,
+        "skills": [
+            "Mediarama",
+            "Invigorate 1",
+            "Maragion"
+        ]
+    },
+    {
+        "name": "Hecatoncheires",
+        "level": 54,
+        "skills": [
+            "Gigantic Fist",
+            "Evade Strike"
+        ]
+    },
+    {
+        "name": "Atropos",
+        "level": 54,
+        "skills": [
+            "Wind Boost",
+            "Magarula"
+        ]
+    },
+    {
+        "name": "Okuninushi",
+        "level": 57,
+        "skills": [
+            "Mighty Swing",
+            "Agilao",
+            "Matarukaja",
+            "Zan-ei",
+            "Agidyne",
+            "Fire Boost",
+            "Apt Pupil",
+            "Maragion"
+        ]
+    },
+    {
+        "name": "Throne",
+        "level": 57,
+        "skills": [
+            "Hama Boost",
+            "Mahamaon",
+            "Dekaja",
+            "Counterstrike",
+            "Recarmdra",
+            "Mediarahan",
+            "Resist Dark",
+            "Hamaon"
+        ]
+    },
+    {
+        "name": "Barong",
+        "level": 57,
+        "skills": [
+            "Heat Wave",
+            "Counterstrike",
+            "Null Poison",
+            "Marakukaja",
+            "Virus Breath",
+            "Invigorate 2",
+            "Auto-Maraku",
+            "Growth 1"
+        ]
+    },
+    {
+        "name": "Kali",
+        "level": 58,
+        "skills": [
+            "Blade of Fury",
+            "Apt Pupil",
+            "Marakunda",
+            "Null Distress",
+            "Deathbound",
+            "Diarama"
+        ]
+    },
+    {
+        "name": "Thor",
+        "level": 58,
+        "skills": [
+            "Ziodyne",
+            "Vicious Strike",
+            "High Counter",
+            "Dekaja",
+            "Masukukaja",
+            "Auto-Mataru",
+            "Rakunda"
+        ]
+    },
+    {
+        "name": "Daisoujou",
+        "level": 58,
+        "skills": [
+            "Diarahan",
+            "Tarukaja",
+            "Recarm",
+            "Sukukaja",
+            "Samsara",
+            "Null Dark",
+            "Growth 3",
+            "Patra"
+        ]
+    },
+    {
+        "name": "Pazuzu",
+        "level": 59,
+        "skills": [
+            "Garudyne",
+            "Tarukaja",
+            "Sexy Dance",
+            "Power Charge",
+            "Poison Arrow",
+            "Virus Breath",
+            "Arrow Rain",
+            "Matarunda"
+        ]
+    },
+    {
+        "name": "Alice",
+        "level": 61,
+        "skills": [
+            "Evil Touch",
+            "Spirit Drain",
+            "Marin Karin",
+            "Megido",
+            "Zio",
+            "Marakunda",
+            "Repel Dark",
+            "Die for Me!"
+        ]
+    },
+    {
+        "name": "Kumbhanda",
+        "level": 61,
+        "skills": [
+            "Auto-Masuku",
+            "Mediarama",
+            "Null Charm",
+            "Fire Amp",
+            "Regenerate 2",
+            "Agidyne"
+        ]
+    },
+    {
+        "name": "Hariti",
+        "level": 62,
+        "skills": [
+            "Diarahan",
+            "Mediarahan",
+            "Bufudyne"
+        ]
+    },
+    {
+        "name": "Jatayu",
+        "level": 63,
+        "skills": [
+            "Garudyne",
+            "Null Panic",
+            "Mediarama",
+            "Counter",
+            "Amrita",
+            "Magarudyne",
+            "Growth 3",
+            "Null Elec"
+        ]
+    },
+    {
+        "name": "Laksmi",
+        "level": 63,
+        "skills": [
+            "Mabufula",
+            "Bufudyne",
+            "Ice Break",
+            "Null Dark",
+            "Resist Fire",
+            "Amrita"
+        ]
+    },
+    {
+        "name": "Loki",
+        "level": 63,
+        "skills": [
+            "Apt Pupil",
+            "Bufudyne",
+            "Bash",
+            "Megidola",
+            "Stagnant Air",
+            "Enradi",
+            "Maragidyne",
+            "Null Fire"
+        ]
+    },
+    {
+        "name": "Anubis",
+        "level": 64,
+        "skills": [
+            "Mahamaon",
+            "Mamudoon",
+            "Ice Boost",
+            "Makarakarn",
+            "Null Elec",
+            "Auto-Tarukaja",
+            "Rakunda",
+            "Null Ice"
+        ]
+    },
+    {
+        "name": "Siegfried",
+        "level": 64,
+        "skills": [
+            "Tempest Slash",
+            "Power Charge",
+            "Auto-Masuku",
+            "Vicious Strike",
+            "Auto-Mataru",
+            "Rakukaja",
+            "High Counter",
+            "Vorpal Blade"
+        ]
+    },
+    {
+        "name": "Scathach",
+        "level": 64,
+        "skills": [
+            "Myriad Arrows",
+            "Mabufudyne"
+        ]
+    },
+    {
+        "name": "Melchizedek",
+        "level": 65,
+        "skills": [
+            "Vicious Strike",
+            "Mediarahan",
+            "Auto-Mataru",
+            "Invigorate 2",
+            "Fist Master",
+            "Akasha Arts",
+            "Repel Dark",
+            "Growth 1"
+        ]
+    },
+    {
+        "name": "Lilith",
+        "level": 66,
+        "skills": [
+            "Sexy Dance",
+            "Makarakarn",
+            "Maragi",
+            "Mudo",
+            "Mabufudyne",
+            "Rakunda",
+            "Dodge Slash",
+            "Megidola"
+        ]
+    },
+    {
+        "name": "Raphael",
+        "level": 66,
+        "skills": [
+            "Deathbound",
+            "Auto-Maraku",
+            "Null Charm",
+            "Apt Pupil",
+            "Mediarahan",
+            "Matarukaja"
+        ]
+    },
+    {
+        "name": "Norn",
+        "level": 67,
+        "skills": [
+            "Wind Amp",
+            "Panta Rhei",
+            "Magarula",
+            "Wind Boost",
+            "Rakukaja",
+            "Regenerate 3",
+            "Magarudyne",
+            "Invigorate 3"
+        ]
+    },
+    {
+        "name": "Uriel",
+        "level": 68,
+        "skills": [
+            "Maragidyne",
+            "Deathbound",
+            "Wind Boost",
+            "Wind Amp",
+            "Fire Amp",
+            "Tempest Slash",
+            "High Counter",
+            "Auto-Rakukaja"
+        ]
+    },
+    {
+        "name": "Horus",
+        "level": 68,
+        "skills": [
+            "Mahamaon",
+            "Mediarahan",
+            "Sukukaja",
+            "Rakukaja",
+            "Auto-Masuku",
+            "Bufudyne",
+            "Repel Dark",
+            "Diarama"
+        ]
+    },
+    {
+        "name": "Nidhoggr",
+        "level": 69,
+        "skills": [
+            "Mamudoon",
+            "Virus Breath"
+        ]
+    },
+    {
+        "name": "Thanatos",
+        "level": 69,
+        "skills": [
+            "Ghastly Wail",
+            "Tempest Slash",
+            "Megidola",
+            "Garula",
+            "Mahamaon",
+            "Poison Arrow",
+            "1hSwd Master",
+            "Panta Rhei"
+        ]
+    },
+    {
+        "name": "Gabriel",
+        "level": 69,
+        "skills": [
+            "Bufudyne",
+            "Mahamaon",
+            "Hama Boost"
+        ]
+    },
+    {
+        "name": "Garuda",
+        "level": 70,
+        "skills": [
+            "Mediarama",
+            "Garudyne",
+            "Matarukaja",
+            "Amrita",
+            "High Counter",
+            "Repel Wind",
+            "Magarudyne",
+            "Power Charge"
+        ]
+    },
+    {
+        "name": "Odin",
+        "level": 71,
+        "skills": [
+            "Vile Assault",
+            "Maziodyne",
+            "Null Panic",
+            "Counter",
+            "Elec Amp",
+            "Thunder Reign",
+            "Spell Master",
+            "Amrita"
+        ]
+    },
+    {
+        "name": "Attis",
+        "level": 72,
+        "skills": [
+            "Recarmdra",
+            "Ghastly Wail",
+            "Megidola",
+            "Zio",
+            "Null Distress",
+            "Counter",
+            "Samarecarm",
+            "Repel Light"
+        ]
+    },
+    {
+        "name": "Abaddon",
+        "level": 73,
+        "skills": [
+            "Evil Smile",
+            "Weary Thrust",
+            "High Counter",
+            "Apt Pupil",
+            "Null Poison",
+            "Null Strike",
+            "Null Slash",
+            "Null Pierce"
+        ]
+    },
+    {
+        "name": "Cybele",
+        "level": 73,
+        "skills": [
+            "Samarecarm",
+            "Auto-Maraku",
+            "Myriad Arrows",
+            "Null Charm",
+            "Ziodyne",
+            "Megidolaon",
+            "Bow Master"
+        ]
+    },
+    {
+        "name": "Mother Harlot",
+        "level": 74,
+        "skills": [
+            "Mamudoon",
+            "Ziodyne"
+        ]
+    },
+    {
+        "name": "Suparna",
+        "level": 75,
+        "skills": [
+            "Diarahan",
+            "Garudyne",
+            "Counter",
+            "Raging Tiger",
+            "Mediarama",
+            "Wind Amp",
+            "Mabufudyne",
+            "Magarudyne"
+        ]
+    },
+    {
+        "name": "Baal Zebul",
+        "level": 76,
+        "skills": [
+            "Mamudoon",
+            "Megidola",
+            "Counter",
+            "Ghastly Wail",
+            "Null Poison",
+            "Bufudyne",
+            "Mudo Boost",
+            "Maragidyne"
+        ]
+    },
+    {
+        "name": "Michael",
+        "level": 77,
+        "skills": [
+            "Mediarahan",
+            "Ice Boost",
+            "Rakunda",
+            "Auto-Tarukaja",
+            "High Counter",
+            "Mabufudyne",
+            "Repel Dark",
+            "Heaven's Blade"
+        ]
+    },
+    {
+        "name": "Saturnus",
+        "level": 78,
+        "skills": [
+            "Maragidyne",
+            "Fire Amp",
+            "Evade Ice"
+        ]
+    },
+    {
+        "name": "Ananta",
+        "level": 80,
+        "skills": [
+            "Mediarahan",
+            "Regenerate 3",
+            "Maragidyne",
+            "Weary Thrust",
+            "High Counter",
+            "Samarecarm",
+            "Auto-Tarukaja",
+            "Victory Cry"
+        ]
+    },
+    {
+        "name": "Skadi",
+        "level": 80,
+        "skills": [
+            "Mabufudyne",
+            "Tetrakarn",
+            "Ice Amp"
+        ]
+    },
+    {
+        "name": "Satan",
+        "level": 84,
+        "skills": [
+            "Maragidyne",
+            "Spell Master",
+            "High Counter",
+            "Null Elec",
+            "Regenerate 3",
+            "Repel Light",
+            "Auto-Tarukaja",
+            "Victory Cry"
+        ]
+    },
+    {
+        "name": "Vishnu",
+        "level": 86,
+        "skills": [
+            "Akasha Arts",
+            "Ziodyne",
+            "Tarukaja",
+            "Counter",
+            "Mind Charge",
+            "Megido",
+            "Salvation",
+            "God's Hand"
+        ]
+    },
+    {
+        "name": "Beelzebub",
+        "level": 86,
+        "skills": [
+            "Makarakarn",
+            "Virus Breath",
+            "Power Charge",
+            "Mudoon",
+            "Primal Force",
+            "Maziodyne",
+            "High Counter",
+            "Magarudyne"
+        ]
+    },
+    {
+        "name": "Shiva",
+        "level": 87,
+        "skills": [
+            "Maziodyne",
+            "Enduring Soul",
+            "Sexy Dance",
+            "Auto-Maraku",
+            "Marakukaja",
+            "Invigorate 2",
+            "Pralaya",
+            "Invigorate 3"
+        ]
+    },
+    {
+        "name": "Alilat",
+        "level": 89,
+        "skills": [
+            "Regenerate 3",
+            "Makarakarn",
+            "Mabufudyne",
+            "Mediarahan",
+            "Victory Cry",
+            "Repel Slash",
+            "Repel Strike",
+            "Growth 3"
+        ]
+    },
+    {
+        "name": "Chi You",
+        "level": 91,
+        "skills": [
+            "Vorpal Blade",
+            "Invigorate 3",
+            "Poison Arrow",
+            "Myriad Arrows",
+            "Wind Boost",
+            "Wind Amp",
+            "Primal Force",
+            "Absorb Strike"
+        ]
+    },
+    {
+        "name": "Metatron",
+        "level": 92,
+        "skills": [
+            "Mahamaon",
+            "Auto-Mataru",
+            "Wind Amp",
+            "Wind Boost",
+            "Apt Pupil",
+            "Megidolaon",
+            "Stagnant Air",
+            "God's Hand"
+        ]
+    },
+    {
+        "name": "Asura",
+        "level": 94,
+        "skills": [
+            "Akasha Arts",
+            "Unshaken Will",
+            "Mind Charge",
+            "Wind Amp",
+            "Tetrakarn",
+            "Megidolaon",
+            "Spell Master",
+            "Growth 3"
+        ]
+    },
+    {
+        "name": "Lucifer",
+        "level": 95,
+        "skills": [
+            "Brave Blade",
+            "Makarakarn",
+            "Magarudyne",
+            "High Counter",
+            "Mamudoon",
+            "Megidolaon",
+            "Spell Master",
+            "Victory Cry"
+        ]
+    },
+    {
+        "name": "Orpheus Telos",
+        "level": 95,
+        "skills": [
+            "Poison Arrow",
+            "Wind Boost",
+            "Auto-Mataru",
+            "Panta Rhei",
+            "Assault Dive",
+            "Unshaken Will",
+            "High Counter",
+            "Auto-Sukukaja"
+        ]
+    },
+    {
+        "name": "Messiah",
+        "level": 97,
+        "skills": [
+            "Megidolaon",
+            "Regenerate 3",
+            "Mahamaon",
+            "Salvation",
+            "Absorb Pierce",
+            "Enduring Soul",
+            "God's Hand",
+            "1hSwd Master"
+        ]
+    },
+    {
+        "name": "Helel",
+        "level": 99,
+        "skills": [
+            "Primal Force",
+            "Mind Charge",
+            "Spell Master",
+            "High Counter",
+            "Morning Star",
+            "Absorb Slash",
+            "Salvation",
+            "Victory Cry"
+        ]
+    }
+]
