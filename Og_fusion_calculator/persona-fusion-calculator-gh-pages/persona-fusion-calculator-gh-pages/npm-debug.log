@@ -1,0 +1,93 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'http-server' ]
+2 info using npm@1.1.32
+3 info using node@v0.8.0
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 verbose config file C:\Users\Eduardo\.npmrc
+6 verbose config file C:\Program Files\nodejs\etc\npmrc
+7 verbose config file C:\Users\Eduardo\AppData\Roaming\nvm\v0.8.0\node_modules\npm\npmrc
+8 verbose read json C:\Program Files\nodejs\package.json
+9 verbose read json C:\Program Files\nodejs\package.json
+10 verbose cache add [ 'http-server', null ]
+11 silly cache add name=undefined spec="http-server" args=["http-server",null]
+12 verbose parsed url { pathname: 'http-server',
+12 verbose parsed url   path: 'http-server',
+12 verbose parsed url   href: 'http-server' }
+13 verbose addNamed [ 'http-server', '' ]
+14 verbose addNamed [ null, '' ]
+15 silly addNameRange { name: 'http-server', range: '', hasData: false }
+16 verbose url raw http-server
+17 verbose url resolving [ 'http://registry.npmjs.org/', './http-server' ]
+18 verbose url resolved http://registry.npmjs.org/http-server
+19 http GET http://registry.npmjs.org/http-server
+20 http 400 http://registry.npmjs.org/http-server
+21 verbose bad json <html>
+21 verbose bad json <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+21 verbose bad json <body>
+21 verbose bad json <center><h1>400 Bad Request</h1></center>
+21 verbose bad json <center>The plain HTTP request was sent to HTTPS port</center>
+21 verbose bad json <hr><center>cloudflare</center>
+21 verbose bad json </body>
+21 verbose bad json </html>
+22 error registry error parsing json
+23 silly registry.get cb [ 400,
+23 silly registry.get   { server: 'cloudflare',
+23 silly registry.get     date: 'Sun, 07 Jan 2024 18:53:42 GMT',
+23 silly registry.get     'content-type': 'text/html',
+23 silly registry.get     'content-length': '253',
+23 silly registry.get     connection: 'close',
+23 silly registry.get     'cf-ray': '-' } ]
+24 error SyntaxError: Unexpected token <
+24 error <html>
+24 error <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+24 error <body>
+24 error <center><h1>400 Bad Request</h1></center>
+24 error <center>The plain HTTP request was sent to HTTPS port</center>
+24 error <hr><center>cloudflare</center>
+24 error </body>
+24 error </html>
+24 error
+24 error     at Object.parse (native)
+24 error     at RegClient.<anonymous> (C:\Users\Eduardo\AppData\Roaming\nvm\v0.8.0\node_modules\npm\node_modules\npm-registry-client\lib\request.js:144:23)
+24 error     at Request.init.self.callback (C:\Users\Eduardo\AppData\Roaming\nvm\v0.8.0\node_modules\npm\node_modules\request\main.js:119:22)
+24 error     at Request.EventEmitter.emit (events.js:91:17)
+24 error     at Request.<anonymous> (C:\Users\Eduardo\AppData\Roaming\nvm\v0.8.0\node_modules\npm\node_modules\request\main.js:521:16)
+24 error     at Request.EventEmitter.emit (events.js:88:17)
+24 error     at IncomingMessage.Request.start.self.req.self.httpModule.request.buffer (C:\Users\Eduardo\AppData\Roaming\nvm\v0.8.0\node_modules\npm\node_modules\request\main.js:483:14)
+24 error     at IncomingMessage.EventEmitter.emit (events.js:115:20)
+24 error     at IncomingMessage._emitEnd (http.js:366:10)
+24 error     at HTTPParser.parserOnMessageComplete [as onMessageComplete] (http.js:149:23)
+24 error  [SyntaxError: Unexpected token <
+24 error <html>
+24 error <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+24 error <body>
+24 error <center><h1>400 Bad Request</h1></center>
+24 error <center>The plain HTTP request was sent to HTTPS port</center>
+24 error <hr><center>cloudflare</center>
+24 error </body>
+24 error </html>
+24 error ]
+25 error You may report this log at:
+25 error     <http://github.com/isaacs/npm/issues>
+25 error or email it to:
+25 error     <npm-@googlegroups.com>
+26 error System Windows_NT 6.2.9200
+27 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "-g" "http-server"
+28 error cwd C:\Users\Eduardo\Documents\Projects\AutoTelos\Og_fusion_calculator\persona-fusion-calculator-gh-pages\persona-fusion-calculator-gh-pages
+29 error node -v v0.8.0
+30 error npm -v 1.1.32
+31 error type unexpected_token
+32 error message Unexpected token <
+32 error message <html>
+32 error message <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+32 error message <body>
+32 error message <center><h1>400 Bad Request</h1></center>
+32 error message <center>The plain HTTP request was sent to HTTPS port</center>
+32 error message <hr><center>cloudflare</center>
+32 error message </body>
+32 error message </html>
+33 verbose exit [ 1, true ]
