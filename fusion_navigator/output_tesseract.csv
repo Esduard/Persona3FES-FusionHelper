@@ -1,0 +1,23 @@
+,Fool,Magician,Priestess,Empress,Emperor,Hierophant,Lovers,Chariot,Justice,Hermit,Fortune,Strength,Hanged Man,Death,Temperance,Devil,Tower,Star,Moon,Sun,Judgment,Aeon
+Fool,Fool,Hierophant,Justice,Fortune,Chariot,Hermit,Priestess,Emperor,Lovers,Priestess,Justice,Hanged Man,Magician,Strength,Hierophant,Hermit,Moon,Aeon,Fortune,Empress,Star,Death
+Magician,Emperor,Magician,Lovers,Hanged Man,Temperance,Hermit,Emperor,Devil,Hierophant,Chariot,Emperor,,Devil,,Death,Temperance,Empress,Empress,Priestess,Lovers,,
+Priestess,Magician,Devil,Priestess,Lovers,Justice,Chariot,Magician,Magician,Lovers,Strength,Magician,Hermit,Strength,Emperor,Empress,,,Justice,Star,Star,Empress,Empress
+Empress,Fortune,Hanged Man,Lovers,Empress,Lovers,Priestess,Fortune,Devil,Emperor,Lovers,Strength,Chariot,Chariot,Devil,Lovers,Lovers,Chariot,Temperance,Lovers,Lovers,,Moon
+Emperor,Chariot,Lovers,Hierophant,Fool,Emperor,Chariot,Chariot,Hermit,Devil,Strength,,Hanged Man,Hermit,Moon,Hanged Man,,,Justice,,Empress,Hierophant,
+Hierophant,Hermit,Hermit,Chariot,Priestess,Chariot,Hierophant,Magician,Justice,Chariot,Chariot,Emperor,Priestess,Lovers,Empress,Strength,,Temperance,Priestess,Temperance,Temperance,Lovers,
+Lovers,Temperance,Devil,Hermit,Fortune,Strength,Temperance,Lovers,Emperor,Chariot,Justice,Magician,Hierophant,Hermit,Devil,Priestess,Strength,Star,Hierophant,Empress,Hierophant,,Hanged Man
+Chariot,Devil,Moon,Emperor,Devil,Justice,Sun,Strength,Chariot,Magician,Temperance,Strength,Justice,Fortune,,Death,Hanged Man,Moon,,Fortune,,,Death
+Justice,Magician,Fool,Hierophant,Emperor,Chariot,Magician,Hanged Man,Magician,Justice,Priestess,Chariot,Temperance,Priestess,Moon,Moon,,Star,Emperor,,Emperor,Aeon,
+Hermit,Priestess,Hanged Man,Fool,Lovers,Lovers,Chariot,Hierophant,Hanged Man,Strength,Hermit,Emperor,Fortune,Fortune,,Hanged Man,Death,,Chariot,Magician,,,Star
+Fortune,Justice,Emperor,Magician,Strength,Sun,Emperor,Fool,Hermit,Chariot,Emperor,Fortune,,Strength,,Lovers,Moon,Moon,Moon,Chariot,Temperance,,Devil
+Strength,Hanged Man,Star,Chariot,Chariot,Hanged Man,Emperor,Hierophant,Justice,Temperance,Fortune,Sun,Strength,Hermit,Hanged Man,Moon,Fortune,Devil,Priestess,Hanged Man,Priestess,Hanged Man,
+Hanged Man,Magician,Devil,Strength,Chariot,Temperance,Fortune,Hermit,Fortune,Priestess,Fortune,Strength,Fortune,Hanged Man,Devil,Hierophant,Moon,Death,Strength,Empress,,,Temperance
+Death,Strength,Tower,Emperor,Devil,Moon,Empress,Devil,Fool,Moon,Tower,Judgment,Hanged Man,Devil,Death,,,,,Star,,,
+Temperance,Strength,Death,Empress,Lovers,Hanged Man,Strength,Priestess,Death,Moon,Hanged Man,Lovers,Moon,Hierophant,Tower,Temperance,Death,Devil,Moon,Empress,Star,Moon,Star
+Devil,Justice,Temperance,Tower,Magician,Tower,Fool,Death,Star,Tower,Death,Hermit,Empress,Death,Judgment,Moon,Devil,,,,,,Lovers
+Tower,Moon,Empress,Death,Chariot,Death,Temperance,Star,Moon,Sun,Death,Aeon,Judgment,Death,Sun,Devil,Judgment,Tower,,Fortune,,Aeon,Moon
+Star,Aeon,Empress,Justice,Temperance,Hermit,Priestess,Hierophant,Sun,Emperor,Chariot,Moon,Priestess,Strength,Tower,Hermit,Magician,Judgment,Star,Death,Justice,Temperance,Devil
+Moon,Fortune,Fortune,Star,Lovers,Tower,Temperance,Empress,Fortune,Tower,Magician,Chariot,Aeon,Empress,Star,Empress,Judgment,Fortune,Sun,Moon,Temperance,,
+Sun,Empress,Lovers,Star,Lovers,Empress,Temperance,Hierophant,Justice,Emperor,Star,Temperance,Priestess,Judgment,Moon,Judgment,Death,Moon,Aeon,Temperance,Sun,Star,Empress
+Judgment,Star,Tower,Justice,Devil,Hierophant,Lovers,Sun,Tower,Aeon,Tower,Star,Hanged Man,Aeon,Fool,Justice,Moon,Aeon,Temperance,Priestess,Star,Judgment,Star
+Aeon,Death,Sun,Empress,Moon,Sun,Tower,Hanged Man,Death,Judgment,Star,Devil,Tower,Temperance,Sun,Star,Lovers,Fool,Devil,Judgment,Empress,Fool,Aeon

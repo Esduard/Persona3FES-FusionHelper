@@ -1,0 +1,28 @@
+Context:
+
+group of n recipes indexed on j=0..n-1
+
+group of m tags indexed on i=0..m-1
+
+
+Parameters:
+
+aij = 1 if recipe indexed at j covers tag indexed at i
+aij = 0 otherwise
+
+the matrix a is in a txt file called 'matrix_a.txt'
+
+Variables:
+
+xj = 1 if recipe is selected
+xj = 0 otherwise
+
+Objective Function:
+
+minimize sum(xj, j=0..n-1)
+
+Constraints:
+
+sum(aij * xj, j=0..n-1) >= 1 where i=0..m-1
+
+xj belongs to {0,1} for each j

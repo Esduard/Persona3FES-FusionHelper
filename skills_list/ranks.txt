@@ -1,0 +1,113 @@
+source: https://gamefaqs.gamespot.com/boards/937269-shin-megami-tensei-persona-3-fes/78968026
+Slash:
+(1) Cleave
+(2) Power Slash
+(3) Getsu-ei, Zan-ei, Gale Slash
+(4) Mighty Swing, Fatal End
+(5) Blade of Fury
+(6) Deathbound
+(7) Tempest Slash, Heavenly Blade
+(8) Brave Blade, Vorpal Blade [Vorpal Blade is uninheritable in Fes]
+Dark:
+(2) Mudo
+(3) Mamudo
+(4) Mudoon
+(5) Mamudoon
+(9) Die For Me!
+Special:
+(1) Raging Tiger
+(2) Growth 1, Fire Boost, Ice Boost, Elec Boost, Wind Boost
+(3) Counter, Growth 2, Dodge Slash, Dodge Strike, Dodge Pierce, Dodge Fire, Dodge Ice, Dodge Elec, Dodge Wind, Apt Pupil, Fear Boost, Panic Boost, Distress Boost, Poison Boost, Charm Boost, Rage Boost, Auto-Tarukaja, Auto-Sukukaja, Auto-Rakukaja
+(4) Invigorate 1, Regenerate 1, Counterstrike, Resist Fire, Resist Ice, Resist Elec, Resist Wind, Resist Light, Resist Dark, Growth 3, Survive Light, Survive Dark, Hama Boost, Mudo Boost, Evade Fire, Evade Ice, Evade Elec, Evade Wind, Fire Amp, Ice Amp, Elec Amp, Wind Amp, Cool Breeze, Fast Retreat
+(5) Invigorate 2, Regenerate 2, Resist Slash, Resist Strike, Resist Pierce, Null Fire, Null Ice, Null Elec, Null Wind, Null Light, Null Dark, Sharp Student, High Counter, Endure Light, Endure Dark, Evade Slash, Evade Strike, Evade Pierce, Awareness, Null Rage, Null Fear, Null Poison, Null Panic, Null Distress, Null Shock, Null Charm, Null Freeze
+(6) Invigorate 3, Regenerate 3, Auto-Mataru, Auto-Masuku, Auto-Maraku, Null Slash, Null Strike, Null Pierce, Repel Fire, Repel Ice, Repel Elec, Repel Wind, Repel Light, Repel Dark, 1hd Sword Master, 2hd Sword Master, Bow Master, Fist Master, Spear Master, Heavy Master, Endure
+(7) Recarmdra, Repel Slash, Repel Strike, Repel Pierce, Ailment Boost, Absorb Fire, Absorb Ice, Absorb Elec, Absorb Wind, Divine Grace
+(8) Trafuri, Absorb Slash, Absorb Strike, Absorb Pierce
+(9) Victory Cry, Enduring Soul, Arms Master, Spell Master, Unshaken Will
+Strike:
+(1) Bash
+(2) Assault Dive, Sonic Punch
+(3) Kill Rush, Swift Strike
+(4) Herculean Strike
+(5) Gigantic Fist, Heat Wave
+(6) Weary Thrust, Vicious Strike
+(7) Akasha Arts
+(8) God's Hand
+Pierce:
+(1) Single Shot
+(2) Double Fangs, Holy Arrow
+(3) Twin Shot
+(4) Torrent Shot, Cruel Attack
+(5) Vile Assault, Poison Arrow
+(6) Arrow Rain
+(7) Myriad Arrows
+(8) Pralaya, Primal Force
+Fire:
+(1) Agi
+(2) Maragi
+(3) Agilao
+(4) Maragion
+(5) Agidyne
+(6) Maragidyne
+(9) Ragnarok
+(-) Maralagidyne [only Mara can use Maralagidyne]
+Ice:
+(1) Bufu
+(2) Mabufu
+(3) Bufula
+(4) Mabufula
+(5) Bufudyne
+(6) Mabufudyne
+(9) Niflheim
+Elec:
+(1) Zio
+(2) Mazio
+(3) Zionga
+(4) Mazionga
+(5) Ziodyne
+(6) Maziodyne
+(9) Thunder Reign
+Wind:
+(1) Garu
+(2) Magaru
+(3) Garula
+(4) Magarula
+(5) Garudyne
+(6) Magarudyne
+(9) Panta Rhei
+Light:
+(2) Hama
+(3) Mahama
+(4) Hamaon
+(5) Mahamaon
+(9) Samsara
+Recovery:
+(1) Patra
+(2) Dia, Re Patra, Posumudi, Charmdi, Enradi
+(3) Diarama, Media, Me Patra
+(4) Recarm
+(5) Diarahan, Mediarama, Samarecarm
+(6) Amrita
+(7) Mediarahan
+(9) Salvation
+Support:
+(2) Tarunda, Sukunda, Rakunda, Tarukaja, Sukukaja, Rakukaja, Rebellion
+(3) Dekunda, Revolution
+(4) Matarunda, Masukunda, Marakunda, Power Charge, Fire Break, Ice Break, Elec Break, Wind Break
+(5) Matarukaja, Masukukaja, Marakukaja, Mind Charge, Dekaja
+(7) Tetrakarn, Makarakarn
+Almighty:
+(2) Foul Breath
+(3) Life Drain, Stagnant Air
+(4) Spirit Drain
+(6) Megido
+(7) Megidola
+(8) Megidolaon
+(9) Morning Star, Black Viper
+Ailment:
+(1) Bewilder, Poisma
+(2) Pulinpa, Eerie Sound, Marin Karin, Provoke
+(3) Evil Touch, Poison Mist, Sexy Dance, Infuriate
+(4) Evil Smile, Tentarafoo
+(5) Virus Breath
+(8) Ghastly Whail

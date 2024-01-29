@@ -1,0 +1,1756 @@
+skill_type,skill_rank,inheritance_type,Value
+Passive,1,ALL,0
+Passive,1,SLASH,0
+Passive,1,STRIKE,0
+Passive,1,PIERCE,0
+Passive,1,FIRE,0
+Passive,1,ICE,0
+Passive,1,ELECTRICITY,0
+Passive,1,WIND,0
+Passive,1,LIGHT,0
+Passive,1,DARK,0
+Passive,1,LIGHT & DARK,0
+Passive,1,RECOVERY,0
+Passive,1,BAD STATUS,0
+Passive,2,ALL,0
+Passive,2,SLASH,0
+Passive,2,STRIKE,0
+Passive,2,PIERCE,0
+Passive,2,FIRE,0
+Passive,2,ICE,0
+Passive,2,ELECTRICITY,0
+Passive,2,WIND,0
+Passive,2,LIGHT,0
+Passive,2,DARK,0
+Passive,2,LIGHT & DARK,0
+Passive,2,RECOVERY,0
+Passive,2,BAD STATUS,0
+Passive,3,ALL,0
+Passive,3,SLASH,0
+Passive,3,STRIKE,0
+Passive,3,PIERCE,0
+Passive,3,FIRE,0
+Passive,3,ICE,0
+Passive,3,ELECTRICITY,0
+Passive,3,WIND,0
+Passive,3,LIGHT,0
+Passive,3,DARK,0
+Passive,3,LIGHT & DARK,0
+Passive,3,RECOVERY,0
+Passive,3,BAD STATUS,0
+Passive,4,ALL,0
+Passive,4,SLASH,0
+Passive,4,STRIKE,0
+Passive,4,PIERCE,0
+Passive,4,FIRE,0
+Passive,4,ICE,0
+Passive,4,ELECTRICITY,0
+Passive,4,WIND,0
+Passive,4,LIGHT,0
+Passive,4,DARK,0
+Passive,4,LIGHT & DARK,0
+Passive,4,RECOVERY,0
+Passive,4,BAD STATUS,0
+Passive,5,ALL,0
+Passive,5,SLASH,0
+Passive,5,STRIKE,0
+Passive,5,PIERCE,0
+Passive,5,FIRE,0
+Passive,5,ICE,0
+Passive,5,ELECTRICITY,0
+Passive,5,WIND,0
+Passive,5,LIGHT,0
+Passive,5,DARK,0
+Passive,5,LIGHT & DARK,0
+Passive,5,RECOVERY,0
+Passive,5,BAD STATUS,0
+Passive,6,ALL,0
+Passive,6,SLASH,0
+Passive,6,STRIKE,0
+Passive,6,PIERCE,0
+Passive,6,FIRE,0
+Passive,6,ICE,0
+Passive,6,ELECTRICITY,0
+Passive,6,WIND,0
+Passive,6,LIGHT,0
+Passive,6,DARK,0
+Passive,6,LIGHT & DARK,0
+Passive,6,RECOVERY,0
+Passive,6,BAD STATUS,0
+Passive,7,ALL,0
+Passive,7,SLASH,0
+Passive,7,STRIKE,0
+Passive,7,PIERCE,0
+Passive,7,FIRE,0
+Passive,7,ICE,0
+Passive,7,ELECTRICITY,0
+Passive,7,WIND,0
+Passive,7,LIGHT,0
+Passive,7,DARK,0
+Passive,7,LIGHT & DARK,0
+Passive,7,RECOVERY,0
+Passive,7,BAD STATUS,0
+Passive,8,ALL,0
+Passive,8,SLASH,0
+Passive,8,STRIKE,0
+Passive,8,PIERCE,0
+Passive,8,FIRE,0
+Passive,8,ICE,0
+Passive,8,ELECTRICITY,0
+Passive,8,WIND,0
+Passive,8,LIGHT,0
+Passive,8,DARK,0
+Passive,8,LIGHT & DARK,0
+Passive,8,RECOVERY,0
+Passive,8,BAD STATUS,0
+Passive,9,ALL,0
+Passive,9,SLASH,0
+Passive,9,STRIKE,0
+Passive,9,PIERCE,0
+Passive,9,FIRE,0
+Passive,9,ICE,0
+Passive,9,ELECTRICITY,0
+Passive,9,WIND,0
+Passive,9,LIGHT,0
+Passive,9,DARK,0
+Passive,9,LIGHT & DARK,0
+Passive,9,RECOVERY,0
+Passive,9,BAD STATUS,0
+Slash,1,ALL,0
+Slash,1,SLASH,0
+Slash,1,STRIKE,0
+Slash,1,PIERCE,0
+Slash,1,FIRE,0
+Slash,1,ICE,0
+Slash,1,ELECTRICITY,0
+Slash,1,WIND,0
+Slash,1,LIGHT,0
+Slash,1,DARK,0
+Slash,1,LIGHT & DARK,0
+Slash,1,RECOVERY,0
+Slash,1,BAD STATUS,0
+Slash,2,ALL,0
+Slash,2,SLASH,0
+Slash,2,STRIKE,0
+Slash,2,PIERCE,0
+Slash,2,FIRE,0
+Slash,2,ICE,0
+Slash,2,ELECTRICITY,0
+Slash,2,WIND,0
+Slash,2,LIGHT,0
+Slash,2,DARK,0
+Slash,2,LIGHT & DARK,0
+Slash,2,RECOVERY,0
+Slash,2,BAD STATUS,0
+Slash,3,ALL,0
+Slash,3,SLASH,0
+Slash,3,STRIKE,0
+Slash,3,PIERCE,0
+Slash,3,FIRE,0
+Slash,3,ICE,0
+Slash,3,ELECTRICITY,0
+Slash,3,WIND,0
+Slash,3,LIGHT,0
+Slash,3,DARK,0
+Slash,3,LIGHT & DARK,0
+Slash,3,RECOVERY,0
+Slash,3,BAD STATUS,0
+Slash,4,ALL,0
+Slash,4,SLASH,0
+Slash,4,STRIKE,0
+Slash,4,PIERCE,0
+Slash,4,FIRE,0
+Slash,4,ICE,0
+Slash,4,ELECTRICITY,0
+Slash,4,WIND,0
+Slash,4,LIGHT,0
+Slash,4,DARK,0
+Slash,4,LIGHT & DARK,0
+Slash,4,RECOVERY,0
+Slash,4,BAD STATUS,0
+Slash,5,ALL,0
+Slash,5,SLASH,0
+Slash,5,STRIKE,0
+Slash,5,PIERCE,0
+Slash,5,FIRE,0
+Slash,5,ICE,0
+Slash,5,ELECTRICITY,0
+Slash,5,WIND,0
+Slash,5,LIGHT,0
+Slash,5,DARK,0
+Slash,5,LIGHT & DARK,0
+Slash,5,RECOVERY,0
+Slash,5,BAD STATUS,0
+Slash,6,ALL,0
+Slash,6,SLASH,0
+Slash,6,STRIKE,0
+Slash,6,PIERCE,0
+Slash,6,FIRE,0
+Slash,6,ICE,0
+Slash,6,ELECTRICITY,0
+Slash,6,WIND,0
+Slash,6,LIGHT,0
+Slash,6,DARK,0
+Slash,6,LIGHT & DARK,0
+Slash,6,RECOVERY,0
+Slash,6,BAD STATUS,0
+Slash,7,ALL,0
+Slash,7,SLASH,0
+Slash,7,STRIKE,0
+Slash,7,PIERCE,0
+Slash,7,FIRE,0
+Slash,7,ICE,0
+Slash,7,ELECTRICITY,0
+Slash,7,WIND,0
+Slash,7,LIGHT,0
+Slash,7,DARK,0
+Slash,7,LIGHT & DARK,0
+Slash,7,RECOVERY,0
+Slash,7,BAD STATUS,0
+Slash,8,ALL,0
+Slash,8,SLASH,0
+Slash,8,STRIKE,0
+Slash,8,PIERCE,0
+Slash,8,FIRE,0
+Slash,8,ICE,0
+Slash,8,ELECTRICITY,0
+Slash,8,WIND,0
+Slash,8,LIGHT,0
+Slash,8,DARK,0
+Slash,8,LIGHT & DARK,0
+Slash,8,RECOVERY,0
+Slash,8,BAD STATUS,0
+Slash,9,ALL,0
+Slash,9,SLASH,0
+Slash,9,STRIKE,0
+Slash,9,PIERCE,0
+Slash,9,FIRE,0
+Slash,9,ICE,0
+Slash,9,ELECTRICITY,0
+Slash,9,WIND,0
+Slash,9,LIGHT,0
+Slash,9,DARK,0
+Slash,9,LIGHT & DARK,0
+Slash,9,RECOVERY,0
+Slash,9,BAD STATUS,0
+Light,1,ALL,0
+Light,1,SLASH,0
+Light,1,STRIKE,0
+Light,1,PIERCE,0
+Light,1,FIRE,0
+Light,1,ICE,0
+Light,1,ELECTRICITY,0
+Light,1,WIND,0
+Light,1,LIGHT,0
+Light,1,DARK,0
+Light,1,LIGHT & DARK,0
+Light,1,RECOVERY,0
+Light,1,BAD STATUS,0
+Light,2,ALL,0
+Light,2,SLASH,0
+Light,2,STRIKE,0
+Light,2,PIERCE,0
+Light,2,FIRE,0
+Light,2,ICE,0
+Light,2,ELECTRICITY,0
+Light,2,WIND,0
+Light,2,LIGHT,0
+Light,2,DARK,0
+Light,2,LIGHT & DARK,0
+Light,2,RECOVERY,0
+Light,2,BAD STATUS,0
+Light,3,ALL,0
+Light,3,SLASH,0
+Light,3,STRIKE,0
+Light,3,PIERCE,0
+Light,3,FIRE,0
+Light,3,ICE,0
+Light,3,ELECTRICITY,0
+Light,3,WIND,0
+Light,3,LIGHT,0
+Light,3,DARK,0
+Light,3,LIGHT & DARK,0
+Light,3,RECOVERY,0
+Light,3,BAD STATUS,0
+Light,4,ALL,0
+Light,4,SLASH,0
+Light,4,STRIKE,0
+Light,4,PIERCE,0
+Light,4,FIRE,0
+Light,4,ICE,0
+Light,4,ELECTRICITY,0
+Light,4,WIND,0
+Light,4,LIGHT,0
+Light,4,DARK,0
+Light,4,LIGHT & DARK,0
+Light,4,RECOVERY,0
+Light,4,BAD STATUS,0
+Light,5,ALL,0
+Light,5,SLASH,0
+Light,5,STRIKE,0
+Light,5,PIERCE,0
+Light,5,FIRE,0
+Light,5,ICE,0
+Light,5,ELECTRICITY,0
+Light,5,WIND,0
+Light,5,LIGHT,0
+Light,5,DARK,0
+Light,5,LIGHT & DARK,0
+Light,5,RECOVERY,0
+Light,5,BAD STATUS,0
+Light,6,ALL,0
+Light,6,SLASH,0
+Light,6,STRIKE,0
+Light,6,PIERCE,0
+Light,6,FIRE,0
+Light,6,ICE,0
+Light,6,ELECTRICITY,0
+Light,6,WIND,0
+Light,6,LIGHT,0
+Light,6,DARK,0
+Light,6,LIGHT & DARK,0
+Light,6,RECOVERY,0
+Light,6,BAD STATUS,0
+Light,7,ALL,0
+Light,7,SLASH,0
+Light,7,STRIKE,0
+Light,7,PIERCE,0
+Light,7,FIRE,0
+Light,7,ICE,0
+Light,7,ELECTRICITY,0
+Light,7,WIND,0
+Light,7,LIGHT,0
+Light,7,DARK,0
+Light,7,LIGHT & DARK,0
+Light,7,RECOVERY,0
+Light,7,BAD STATUS,0
+Light,8,ALL,0
+Light,8,SLASH,0
+Light,8,STRIKE,0
+Light,8,PIERCE,0
+Light,8,FIRE,0
+Light,8,ICE,0
+Light,8,ELECTRICITY,0
+Light,8,WIND,0
+Light,8,LIGHT,0
+Light,8,DARK,0
+Light,8,LIGHT & DARK,0
+Light,8,RECOVERY,0
+Light,8,BAD STATUS,0
+Light,9,ALL,0
+Light,9,SLASH,0
+Light,9,STRIKE,0
+Light,9,PIERCE,0
+Light,9,FIRE,0
+Light,9,ICE,0
+Light,9,ELECTRICITY,0
+Light,9,WIND,0
+Light,9,LIGHT,0
+Light,9,DARK,0
+Light,9,LIGHT & DARK,0
+Light,9,RECOVERY,0
+Light,9,BAD STATUS,0
+Dark,1,ALL,0
+Dark,1,SLASH,0
+Dark,1,STRIKE,0
+Dark,1,PIERCE,0
+Dark,1,FIRE,0
+Dark,1,ICE,0
+Dark,1,ELECTRICITY,0
+Dark,1,WIND,0
+Dark,1,LIGHT,0
+Dark,1,DARK,0
+Dark,1,LIGHT & DARK,0
+Dark,1,RECOVERY,0
+Dark,1,BAD STATUS,0
+Dark,2,ALL,0
+Dark,2,SLASH,0
+Dark,2,STRIKE,0
+Dark,2,PIERCE,0
+Dark,2,FIRE,0
+Dark,2,ICE,0
+Dark,2,ELECTRICITY,0
+Dark,2,WIND,0
+Dark,2,LIGHT,0
+Dark,2,DARK,0
+Dark,2,LIGHT & DARK,0
+Dark,2,RECOVERY,0
+Dark,2,BAD STATUS,0
+Dark,3,ALL,0
+Dark,3,SLASH,0
+Dark,3,STRIKE,0
+Dark,3,PIERCE,0
+Dark,3,FIRE,0
+Dark,3,ICE,0
+Dark,3,ELECTRICITY,0
+Dark,3,WIND,0
+Dark,3,LIGHT,0
+Dark,3,DARK,0
+Dark,3,LIGHT & DARK,0
+Dark,3,RECOVERY,0
+Dark,3,BAD STATUS,0
+Dark,4,ALL,0
+Dark,4,SLASH,0
+Dark,4,STRIKE,0
+Dark,4,PIERCE,0
+Dark,4,FIRE,0
+Dark,4,ICE,0
+Dark,4,ELECTRICITY,0
+Dark,4,WIND,0
+Dark,4,LIGHT,0
+Dark,4,DARK,0
+Dark,4,LIGHT & DARK,0
+Dark,4,RECOVERY,0
+Dark,4,BAD STATUS,0
+Dark,5,ALL,0
+Dark,5,SLASH,0
+Dark,5,STRIKE,0
+Dark,5,PIERCE,0
+Dark,5,FIRE,0
+Dark,5,ICE,0
+Dark,5,ELECTRICITY,0
+Dark,5,WIND,0
+Dark,5,LIGHT,0
+Dark,5,DARK,0
+Dark,5,LIGHT & DARK,0
+Dark,5,RECOVERY,0
+Dark,5,BAD STATUS,0
+Dark,6,ALL,0
+Dark,6,SLASH,0
+Dark,6,STRIKE,0
+Dark,6,PIERCE,0
+Dark,6,FIRE,0
+Dark,6,ICE,0
+Dark,6,ELECTRICITY,0
+Dark,6,WIND,0
+Dark,6,LIGHT,0
+Dark,6,DARK,0
+Dark,6,LIGHT & DARK,0
+Dark,6,RECOVERY,0
+Dark,6,BAD STATUS,0
+Dark,7,ALL,0
+Dark,7,SLASH,0
+Dark,7,STRIKE,0
+Dark,7,PIERCE,0
+Dark,7,FIRE,0
+Dark,7,ICE,0
+Dark,7,ELECTRICITY,0
+Dark,7,WIND,0
+Dark,7,LIGHT,0
+Dark,7,DARK,0
+Dark,7,LIGHT & DARK,0
+Dark,7,RECOVERY,0
+Dark,7,BAD STATUS,0
+Dark,8,ALL,0
+Dark,8,SLASH,0
+Dark,8,STRIKE,0
+Dark,8,PIERCE,0
+Dark,8,FIRE,0
+Dark,8,ICE,0
+Dark,8,ELECTRICITY,0
+Dark,8,WIND,0
+Dark,8,LIGHT,0
+Dark,8,DARK,0
+Dark,8,LIGHT & DARK,0
+Dark,8,RECOVERY,0
+Dark,8,BAD STATUS,0
+Dark,9,ALL,0
+Dark,9,SLASH,0
+Dark,9,STRIKE,0
+Dark,9,PIERCE,0
+Dark,9,FIRE,0
+Dark,9,ICE,0
+Dark,9,ELECTRICITY,0
+Dark,9,WIND,0
+Dark,9,LIGHT,0
+Dark,9,DARK,0
+Dark,9,LIGHT & DARK,0
+Dark,9,RECOVERY,0
+Dark,9,BAD STATUS,0
+Bad Status,1,ALL,0
+Bad Status,1,SLASH,0
+Bad Status,1,STRIKE,0
+Bad Status,1,PIERCE,0
+Bad Status,1,FIRE,0
+Bad Status,1,ICE,0
+Bad Status,1,ELECTRICITY,0
+Bad Status,1,WIND,0
+Bad Status,1,LIGHT,0
+Bad Status,1,DARK,0
+Bad Status,1,LIGHT & DARK,0
+Bad Status,1,RECOVERY,0
+Bad Status,1,BAD STATUS,0
+Bad Status,2,ALL,0
+Bad Status,2,SLASH,0
+Bad Status,2,STRIKE,0
+Bad Status,2,PIERCE,0
+Bad Status,2,FIRE,0
+Bad Status,2,ICE,0
+Bad Status,2,ELECTRICITY,0
+Bad Status,2,WIND,0
+Bad Status,2,LIGHT,0
+Bad Status,2,DARK,0
+Bad Status,2,LIGHT & DARK,0
+Bad Status,2,RECOVERY,0
+Bad Status,2,BAD STATUS,0
+Bad Status,3,ALL,0
+Bad Status,3,SLASH,0
+Bad Status,3,STRIKE,0
+Bad Status,3,PIERCE,0
+Bad Status,3,FIRE,0
+Bad Status,3,ICE,0
+Bad Status,3,ELECTRICITY,0
+Bad Status,3,WIND,0
+Bad Status,3,LIGHT,0
+Bad Status,3,DARK,0
+Bad Status,3,LIGHT & DARK,0
+Bad Status,3,RECOVERY,0
+Bad Status,3,BAD STATUS,0
+Bad Status,4,ALL,0
+Bad Status,4,SLASH,0
+Bad Status,4,STRIKE,0
+Bad Status,4,PIERCE,0
+Bad Status,4,FIRE,0
+Bad Status,4,ICE,0
+Bad Status,4,ELECTRICITY,0
+Bad Status,4,WIND,0
+Bad Status,4,LIGHT,0
+Bad Status,4,DARK,0
+Bad Status,4,LIGHT & DARK,0
+Bad Status,4,RECOVERY,0
+Bad Status,4,BAD STATUS,0
+Bad Status,5,ALL,0
+Bad Status,5,SLASH,0
+Bad Status,5,STRIKE,0
+Bad Status,5,PIERCE,0
+Bad Status,5,FIRE,0
+Bad Status,5,ICE,0
+Bad Status,5,ELECTRICITY,0
+Bad Status,5,WIND,0
+Bad Status,5,LIGHT,0
+Bad Status,5,DARK,0
+Bad Status,5,LIGHT & DARK,0
+Bad Status,5,RECOVERY,0
+Bad Status,5,BAD STATUS,0
+Bad Status,6,ALL,0
+Bad Status,6,SLASH,0
+Bad Status,6,STRIKE,0
+Bad Status,6,PIERCE,0
+Bad Status,6,FIRE,0
+Bad Status,6,ICE,0
+Bad Status,6,ELECTRICITY,0
+Bad Status,6,WIND,0
+Bad Status,6,LIGHT,0
+Bad Status,6,DARK,0
+Bad Status,6,LIGHT & DARK,0
+Bad Status,6,RECOVERY,0
+Bad Status,6,BAD STATUS,0
+Bad Status,7,ALL,0
+Bad Status,7,SLASH,0
+Bad Status,7,STRIKE,0
+Bad Status,7,PIERCE,0
+Bad Status,7,FIRE,0
+Bad Status,7,ICE,0
+Bad Status,7,ELECTRICITY,0
+Bad Status,7,WIND,0
+Bad Status,7,LIGHT,0
+Bad Status,7,DARK,0
+Bad Status,7,LIGHT & DARK,0
+Bad Status,7,RECOVERY,0
+Bad Status,7,BAD STATUS,0
+Bad Status,8,ALL,0
+Bad Status,8,SLASH,0
+Bad Status,8,STRIKE,0
+Bad Status,8,PIERCE,0
+Bad Status,8,FIRE,0
+Bad Status,8,ICE,0
+Bad Status,8,ELECTRICITY,0
+Bad Status,8,WIND,0
+Bad Status,8,LIGHT,0
+Bad Status,8,DARK,0
+Bad Status,8,LIGHT & DARK,0
+Bad Status,8,RECOVERY,0
+Bad Status,8,BAD STATUS,0
+Bad Status,9,ALL,0
+Bad Status,9,SLASH,0
+Bad Status,9,STRIKE,0
+Bad Status,9,PIERCE,0
+Bad Status,9,FIRE,0
+Bad Status,9,ICE,0
+Bad Status,9,ELECTRICITY,0
+Bad Status,9,WIND,0
+Bad Status,9,LIGHT,0
+Bad Status,9,DARK,0
+Bad Status,9,LIGHT & DARK,0
+Bad Status,9,RECOVERY,0
+Bad Status,9,BAD STATUS,0
+Ice,1,ALL,0
+Ice,1,SLASH,0
+Ice,1,STRIKE,0
+Ice,1,PIERCE,0
+Ice,1,FIRE,0
+Ice,1,ICE,0
+Ice,1,ELECTRICITY,0
+Ice,1,WIND,0
+Ice,1,LIGHT,0
+Ice,1,DARK,0
+Ice,1,LIGHT & DARK,0
+Ice,1,RECOVERY,0
+Ice,1,BAD STATUS,0
+Ice,2,ALL,0
+Ice,2,SLASH,0
+Ice,2,STRIKE,0
+Ice,2,PIERCE,0
+Ice,2,FIRE,0
+Ice,2,ICE,0
+Ice,2,ELECTRICITY,0
+Ice,2,WIND,0
+Ice,2,LIGHT,0
+Ice,2,DARK,0
+Ice,2,LIGHT & DARK,0
+Ice,2,RECOVERY,0
+Ice,2,BAD STATUS,0
+Ice,3,ALL,0
+Ice,3,SLASH,0
+Ice,3,STRIKE,0
+Ice,3,PIERCE,0
+Ice,3,FIRE,0
+Ice,3,ICE,0
+Ice,3,ELECTRICITY,0
+Ice,3,WIND,0
+Ice,3,LIGHT,0
+Ice,3,DARK,0
+Ice,3,LIGHT & DARK,0
+Ice,3,RECOVERY,0
+Ice,3,BAD STATUS,0
+Ice,4,ALL,0
+Ice,4,SLASH,0
+Ice,4,STRIKE,0
+Ice,4,PIERCE,0
+Ice,4,FIRE,0
+Ice,4,ICE,0
+Ice,4,ELECTRICITY,0
+Ice,4,WIND,0
+Ice,4,LIGHT,0
+Ice,4,DARK,0
+Ice,4,LIGHT & DARK,0
+Ice,4,RECOVERY,0
+Ice,4,BAD STATUS,0
+Ice,5,ALL,0
+Ice,5,SLASH,0
+Ice,5,STRIKE,0
+Ice,5,PIERCE,0
+Ice,5,FIRE,0
+Ice,5,ICE,0
+Ice,5,ELECTRICITY,0
+Ice,5,WIND,0
+Ice,5,LIGHT,0
+Ice,5,DARK,0
+Ice,5,LIGHT & DARK,0
+Ice,5,RECOVERY,0
+Ice,5,BAD STATUS,0
+Ice,6,ALL,0
+Ice,6,SLASH,0
+Ice,6,STRIKE,0
+Ice,6,PIERCE,0
+Ice,6,FIRE,0
+Ice,6,ICE,0
+Ice,6,ELECTRICITY,0
+Ice,6,WIND,0
+Ice,6,LIGHT,0
+Ice,6,DARK,0
+Ice,6,LIGHT & DARK,0
+Ice,6,RECOVERY,0
+Ice,6,BAD STATUS,0
+Ice,7,ALL,0
+Ice,7,SLASH,0
+Ice,7,STRIKE,0
+Ice,7,PIERCE,0
+Ice,7,FIRE,0
+Ice,7,ICE,0
+Ice,7,ELECTRICITY,0
+Ice,7,WIND,0
+Ice,7,LIGHT,0
+Ice,7,DARK,0
+Ice,7,LIGHT & DARK,0
+Ice,7,RECOVERY,0
+Ice,7,BAD STATUS,0
+Ice,8,ALL,0
+Ice,8,SLASH,0
+Ice,8,STRIKE,0
+Ice,8,PIERCE,0
+Ice,8,FIRE,0
+Ice,8,ICE,0
+Ice,8,ELECTRICITY,0
+Ice,8,WIND,0
+Ice,8,LIGHT,0
+Ice,8,DARK,0
+Ice,8,LIGHT & DARK,0
+Ice,8,RECOVERY,0
+Ice,8,BAD STATUS,0
+Ice,9,ALL,0
+Ice,9,SLASH,0
+Ice,9,STRIKE,0
+Ice,9,PIERCE,0
+Ice,9,FIRE,0
+Ice,9,ICE,0
+Ice,9,ELECTRICITY,0
+Ice,9,WIND,0
+Ice,9,LIGHT,0
+Ice,9,DARK,0
+Ice,9,LIGHT & DARK,0
+Ice,9,RECOVERY,0
+Ice,9,BAD STATUS,0
+Elec,1,ALL,0
+Elec,1,SLASH,0
+Elec,1,STRIKE,0
+Elec,1,PIERCE,0
+Elec,1,FIRE,0
+Elec,1,ICE,0
+Elec,1,ELECTRICITY,0
+Elec,1,WIND,0
+Elec,1,LIGHT,0
+Elec,1,DARK,0
+Elec,1,LIGHT & DARK,0
+Elec,1,RECOVERY,0
+Elec,1,BAD STATUS,0
+Elec,2,ALL,0
+Elec,2,SLASH,0
+Elec,2,STRIKE,0
+Elec,2,PIERCE,0
+Elec,2,FIRE,0
+Elec,2,ICE,0
+Elec,2,ELECTRICITY,0
+Elec,2,WIND,0
+Elec,2,LIGHT,0
+Elec,2,DARK,0
+Elec,2,LIGHT & DARK,0
+Elec,2,RECOVERY,0
+Elec,2,BAD STATUS,0
+Elec,3,ALL,0
+Elec,3,SLASH,0
+Elec,3,STRIKE,0
+Elec,3,PIERCE,0
+Elec,3,FIRE,0
+Elec,3,ICE,0
+Elec,3,ELECTRICITY,0
+Elec,3,WIND,0
+Elec,3,LIGHT,0
+Elec,3,DARK,0
+Elec,3,LIGHT & DARK,0
+Elec,3,RECOVERY,0
+Elec,3,BAD STATUS,0
+Elec,4,ALL,0
+Elec,4,SLASH,0
+Elec,4,STRIKE,0
+Elec,4,PIERCE,0
+Elec,4,FIRE,0
+Elec,4,ICE,0
+Elec,4,ELECTRICITY,0
+Elec,4,WIND,0
+Elec,4,LIGHT,0
+Elec,4,DARK,0
+Elec,4,LIGHT & DARK,0
+Elec,4,RECOVERY,0
+Elec,4,BAD STATUS,0
+Elec,5,ALL,0
+Elec,5,SLASH,0
+Elec,5,STRIKE,0
+Elec,5,PIERCE,0
+Elec,5,FIRE,0
+Elec,5,ICE,0
+Elec,5,ELECTRICITY,0
+Elec,5,WIND,0
+Elec,5,LIGHT,0
+Elec,5,DARK,0
+Elec,5,LIGHT & DARK,0
+Elec,5,RECOVERY,0
+Elec,5,BAD STATUS,0
+Elec,6,ALL,0
+Elec,6,SLASH,0
+Elec,6,STRIKE,0
+Elec,6,PIERCE,0
+Elec,6,FIRE,0
+Elec,6,ICE,0
+Elec,6,ELECTRICITY,0
+Elec,6,WIND,0
+Elec,6,LIGHT,0
+Elec,6,DARK,0
+Elec,6,LIGHT & DARK,0
+Elec,6,RECOVERY,0
+Elec,6,BAD STATUS,0
+Elec,7,ALL,0
+Elec,7,SLASH,0
+Elec,7,STRIKE,0
+Elec,7,PIERCE,0
+Elec,7,FIRE,0
+Elec,7,ICE,0
+Elec,7,ELECTRICITY,0
+Elec,7,WIND,0
+Elec,7,LIGHT,0
+Elec,7,DARK,0
+Elec,7,LIGHT & DARK,0
+Elec,7,RECOVERY,0
+Elec,7,BAD STATUS,0
+Elec,8,ALL,0
+Elec,8,SLASH,0
+Elec,8,STRIKE,0
+Elec,8,PIERCE,0
+Elec,8,FIRE,0
+Elec,8,ICE,0
+Elec,8,ELECTRICITY,0
+Elec,8,WIND,0
+Elec,8,LIGHT,0
+Elec,8,DARK,0
+Elec,8,LIGHT & DARK,0
+Elec,8,RECOVERY,0
+Elec,8,BAD STATUS,0
+Elec,9,ALL,0
+Elec,9,SLASH,0
+Elec,9,STRIKE,0
+Elec,9,PIERCE,0
+Elec,9,FIRE,0
+Elec,9,ICE,0
+Elec,9,ELECTRICITY,0
+Elec,9,WIND,0
+Elec,9,LIGHT,0
+Elec,9,DARK,0
+Elec,9,LIGHT & DARK,0
+Elec,9,RECOVERY,0
+Elec,9,BAD STATUS,0
+Enhance,1,ALL,0
+Enhance,1,SLASH,0
+Enhance,1,STRIKE,0
+Enhance,1,PIERCE,0
+Enhance,1,FIRE,0
+Enhance,1,ICE,0
+Enhance,1,ELECTRICITY,0
+Enhance,1,WIND,0
+Enhance,1,LIGHT,0
+Enhance,1,DARK,0
+Enhance,1,LIGHT & DARK,0
+Enhance,1,RECOVERY,0
+Enhance,1,BAD STATUS,0
+Enhance,2,ALL,0
+Enhance,2,SLASH,0
+Enhance,2,STRIKE,0
+Enhance,2,PIERCE,0
+Enhance,2,FIRE,0
+Enhance,2,ICE,0
+Enhance,2,ELECTRICITY,0
+Enhance,2,WIND,0
+Enhance,2,LIGHT,0
+Enhance,2,DARK,0
+Enhance,2,LIGHT & DARK,0
+Enhance,2,RECOVERY,0
+Enhance,2,BAD STATUS,0
+Enhance,3,ALL,0
+Enhance,3,SLASH,0
+Enhance,3,STRIKE,0
+Enhance,3,PIERCE,0
+Enhance,3,FIRE,0
+Enhance,3,ICE,0
+Enhance,3,ELECTRICITY,0
+Enhance,3,WIND,0
+Enhance,3,LIGHT,0
+Enhance,3,DARK,0
+Enhance,3,LIGHT & DARK,0
+Enhance,3,RECOVERY,0
+Enhance,3,BAD STATUS,0
+Enhance,4,ALL,0
+Enhance,4,SLASH,0
+Enhance,4,STRIKE,0
+Enhance,4,PIERCE,0
+Enhance,4,FIRE,0
+Enhance,4,ICE,0
+Enhance,4,ELECTRICITY,0
+Enhance,4,WIND,0
+Enhance,4,LIGHT,0
+Enhance,4,DARK,0
+Enhance,4,LIGHT & DARK,0
+Enhance,4,RECOVERY,0
+Enhance,4,BAD STATUS,0
+Enhance,5,ALL,0
+Enhance,5,SLASH,0
+Enhance,5,STRIKE,0
+Enhance,5,PIERCE,0
+Enhance,5,FIRE,0
+Enhance,5,ICE,0
+Enhance,5,ELECTRICITY,0
+Enhance,5,WIND,0
+Enhance,5,LIGHT,0
+Enhance,5,DARK,0
+Enhance,5,LIGHT & DARK,0
+Enhance,5,RECOVERY,0
+Enhance,5,BAD STATUS,0
+Enhance,6,ALL,0
+Enhance,6,SLASH,0
+Enhance,6,STRIKE,0
+Enhance,6,PIERCE,0
+Enhance,6,FIRE,0
+Enhance,6,ICE,0
+Enhance,6,ELECTRICITY,0
+Enhance,6,WIND,0
+Enhance,6,LIGHT,0
+Enhance,6,DARK,0
+Enhance,6,LIGHT & DARK,0
+Enhance,6,RECOVERY,0
+Enhance,6,BAD STATUS,0
+Enhance,7,ALL,0
+Enhance,7,SLASH,0
+Enhance,7,STRIKE,0
+Enhance,7,PIERCE,0
+Enhance,7,FIRE,0
+Enhance,7,ICE,0
+Enhance,7,ELECTRICITY,0
+Enhance,7,WIND,0
+Enhance,7,LIGHT,0
+Enhance,7,DARK,0
+Enhance,7,LIGHT & DARK,0
+Enhance,7,RECOVERY,0
+Enhance,7,BAD STATUS,0
+Enhance,8,ALL,0
+Enhance,8,SLASH,0
+Enhance,8,STRIKE,0
+Enhance,8,PIERCE,0
+Enhance,8,FIRE,0
+Enhance,8,ICE,0
+Enhance,8,ELECTRICITY,0
+Enhance,8,WIND,0
+Enhance,8,LIGHT,0
+Enhance,8,DARK,0
+Enhance,8,LIGHT & DARK,0
+Enhance,8,RECOVERY,0
+Enhance,8,BAD STATUS,0
+Enhance,9,ALL,0
+Enhance,9,SLASH,0
+Enhance,9,STRIKE,0
+Enhance,9,PIERCE,0
+Enhance,9,FIRE,0
+Enhance,9,ICE,0
+Enhance,9,ELECTRICITY,0
+Enhance,9,WIND,0
+Enhance,9,LIGHT,0
+Enhance,9,DARK,0
+Enhance,9,LIGHT & DARK,0
+Enhance,9,RECOVERY,0
+Enhance,9,BAD STATUS,0
+Pierce,1,ALL,0
+Pierce,1,SLASH,0
+Pierce,1,STRIKE,0
+Pierce,1,PIERCE,0
+Pierce,1,FIRE,0
+Pierce,1,ICE,0
+Pierce,1,ELECTRICITY,0
+Pierce,1,WIND,0
+Pierce,1,LIGHT,0
+Pierce,1,DARK,0
+Pierce,1,LIGHT & DARK,0
+Pierce,1,RECOVERY,0
+Pierce,1,BAD STATUS,0
+Pierce,2,ALL,0
+Pierce,2,SLASH,0
+Pierce,2,STRIKE,0
+Pierce,2,PIERCE,0
+Pierce,2,FIRE,0
+Pierce,2,ICE,0
+Pierce,2,ELECTRICITY,0
+Pierce,2,WIND,0
+Pierce,2,LIGHT,0
+Pierce,2,DARK,0
+Pierce,2,LIGHT & DARK,0
+Pierce,2,RECOVERY,0
+Pierce,2,BAD STATUS,0
+Pierce,3,ALL,0
+Pierce,3,SLASH,0
+Pierce,3,STRIKE,0
+Pierce,3,PIERCE,0
+Pierce,3,FIRE,0
+Pierce,3,ICE,0
+Pierce,3,ELECTRICITY,0
+Pierce,3,WIND,0
+Pierce,3,LIGHT,0
+Pierce,3,DARK,0
+Pierce,3,LIGHT & DARK,0
+Pierce,3,RECOVERY,0
+Pierce,3,BAD STATUS,0
+Pierce,4,ALL,0
+Pierce,4,SLASH,0
+Pierce,4,STRIKE,0
+Pierce,4,PIERCE,0
+Pierce,4,FIRE,0
+Pierce,4,ICE,0
+Pierce,4,ELECTRICITY,0
+Pierce,4,WIND,0
+Pierce,4,LIGHT,0
+Pierce,4,DARK,0
+Pierce,4,LIGHT & DARK,0
+Pierce,4,RECOVERY,0
+Pierce,4,BAD STATUS,0
+Pierce,5,ALL,0
+Pierce,5,SLASH,0
+Pierce,5,STRIKE,0
+Pierce,5,PIERCE,0
+Pierce,5,FIRE,0
+Pierce,5,ICE,0
+Pierce,5,ELECTRICITY,0
+Pierce,5,WIND,0
+Pierce,5,LIGHT,0
+Pierce,5,DARK,0
+Pierce,5,LIGHT & DARK,0
+Pierce,5,RECOVERY,0
+Pierce,5,BAD STATUS,0
+Pierce,6,ALL,0
+Pierce,6,SLASH,0
+Pierce,6,STRIKE,0
+Pierce,6,PIERCE,0
+Pierce,6,FIRE,0
+Pierce,6,ICE,0
+Pierce,6,ELECTRICITY,0
+Pierce,6,WIND,0
+Pierce,6,LIGHT,0
+Pierce,6,DARK,0
+Pierce,6,LIGHT & DARK,0
+Pierce,6,RECOVERY,0
+Pierce,6,BAD STATUS,0
+Pierce,7,ALL,0
+Pierce,7,SLASH,0
+Pierce,7,STRIKE,0
+Pierce,7,PIERCE,0
+Pierce,7,FIRE,0
+Pierce,7,ICE,0
+Pierce,7,ELECTRICITY,0
+Pierce,7,WIND,0
+Pierce,7,LIGHT,0
+Pierce,7,DARK,0
+Pierce,7,LIGHT & DARK,0
+Pierce,7,RECOVERY,0
+Pierce,7,BAD STATUS,0
+Pierce,8,ALL,0
+Pierce,8,SLASH,0
+Pierce,8,STRIKE,0
+Pierce,8,PIERCE,0
+Pierce,8,FIRE,0
+Pierce,8,ICE,0
+Pierce,8,ELECTRICITY,0
+Pierce,8,WIND,0
+Pierce,8,LIGHT,0
+Pierce,8,DARK,0
+Pierce,8,LIGHT & DARK,0
+Pierce,8,RECOVERY,0
+Pierce,8,BAD STATUS,0
+Pierce,9,ALL,0
+Pierce,9,SLASH,0
+Pierce,9,STRIKE,0
+Pierce,9,PIERCE,0
+Pierce,9,FIRE,0
+Pierce,9,ICE,0
+Pierce,9,ELECTRICITY,0
+Pierce,9,WIND,0
+Pierce,9,LIGHT,0
+Pierce,9,DARK,0
+Pierce,9,LIGHT & DARK,0
+Pierce,9,RECOVERY,0
+Pierce,9,BAD STATUS,0
+Fire,1,ALL,0
+Fire,1,SLASH,0
+Fire,1,STRIKE,0
+Fire,1,PIERCE,0
+Fire,1,FIRE,0
+Fire,1,ICE,0
+Fire,1,ELECTRICITY,0
+Fire,1,WIND,0
+Fire,1,LIGHT,0
+Fire,1,DARK,0
+Fire,1,LIGHT & DARK,0
+Fire,1,RECOVERY,0
+Fire,1,BAD STATUS,0
+Fire,2,ALL,0
+Fire,2,SLASH,0
+Fire,2,STRIKE,0
+Fire,2,PIERCE,0
+Fire,2,FIRE,0
+Fire,2,ICE,0
+Fire,2,ELECTRICITY,0
+Fire,2,WIND,0
+Fire,2,LIGHT,0
+Fire,2,DARK,0
+Fire,2,LIGHT & DARK,0
+Fire,2,RECOVERY,0
+Fire,2,BAD STATUS,0
+Fire,3,ALL,0
+Fire,3,SLASH,0
+Fire,3,STRIKE,0
+Fire,3,PIERCE,0
+Fire,3,FIRE,0
+Fire,3,ICE,0
+Fire,3,ELECTRICITY,0
+Fire,3,WIND,0
+Fire,3,LIGHT,0
+Fire,3,DARK,0
+Fire,3,LIGHT & DARK,0
+Fire,3,RECOVERY,0
+Fire,3,BAD STATUS,0
+Fire,4,ALL,0
+Fire,4,SLASH,0
+Fire,4,STRIKE,0
+Fire,4,PIERCE,0
+Fire,4,FIRE,0
+Fire,4,ICE,0
+Fire,4,ELECTRICITY,0
+Fire,4,WIND,0
+Fire,4,LIGHT,0
+Fire,4,DARK,0
+Fire,4,LIGHT & DARK,0
+Fire,4,RECOVERY,0
+Fire,4,BAD STATUS,0
+Fire,5,ALL,0
+Fire,5,SLASH,0
+Fire,5,STRIKE,0
+Fire,5,PIERCE,0
+Fire,5,FIRE,0
+Fire,5,ICE,0
+Fire,5,ELECTRICITY,0
+Fire,5,WIND,0
+Fire,5,LIGHT,0
+Fire,5,DARK,0
+Fire,5,LIGHT & DARK,0
+Fire,5,RECOVERY,0
+Fire,5,BAD STATUS,0
+Fire,6,ALL,0
+Fire,6,SLASH,0
+Fire,6,STRIKE,0
+Fire,6,PIERCE,0
+Fire,6,FIRE,0
+Fire,6,ICE,0
+Fire,6,ELECTRICITY,0
+Fire,6,WIND,0
+Fire,6,LIGHT,0
+Fire,6,DARK,0
+Fire,6,LIGHT & DARK,0
+Fire,6,RECOVERY,0
+Fire,6,BAD STATUS,0
+Fire,7,ALL,0
+Fire,7,SLASH,0
+Fire,7,STRIKE,0
+Fire,7,PIERCE,0
+Fire,7,FIRE,0
+Fire,7,ICE,0
+Fire,7,ELECTRICITY,0
+Fire,7,WIND,0
+Fire,7,LIGHT,0
+Fire,7,DARK,0
+Fire,7,LIGHT & DARK,0
+Fire,7,RECOVERY,0
+Fire,7,BAD STATUS,0
+Fire,8,ALL,0
+Fire,8,SLASH,0
+Fire,8,STRIKE,0
+Fire,8,PIERCE,0
+Fire,8,FIRE,0
+Fire,8,ICE,0
+Fire,8,ELECTRICITY,0
+Fire,8,WIND,0
+Fire,8,LIGHT,0
+Fire,8,DARK,0
+Fire,8,LIGHT & DARK,0
+Fire,8,RECOVERY,0
+Fire,8,BAD STATUS,0
+Fire,9,ALL,0
+Fire,9,SLASH,0
+Fire,9,STRIKE,0
+Fire,9,PIERCE,0
+Fire,9,FIRE,0
+Fire,9,ICE,0
+Fire,9,ELECTRICITY,0
+Fire,9,WIND,0
+Fire,9,LIGHT,0
+Fire,9,DARK,0
+Fire,9,LIGHT & DARK,0
+Fire,9,RECOVERY,0
+Fire,9,BAD STATUS,0
+Recovery,1,ALL,0
+Recovery,1,SLASH,0
+Recovery,1,STRIKE,0
+Recovery,1,PIERCE,0
+Recovery,1,FIRE,0
+Recovery,1,ICE,0
+Recovery,1,ELECTRICITY,0
+Recovery,1,WIND,0
+Recovery,1,LIGHT,0
+Recovery,1,DARK,0
+Recovery,1,LIGHT & DARK,0
+Recovery,1,RECOVERY,0
+Recovery,1,BAD STATUS,0
+Recovery,2,ALL,0
+Recovery,2,SLASH,0
+Recovery,2,STRIKE,0
+Recovery,2,PIERCE,0
+Recovery,2,FIRE,0
+Recovery,2,ICE,0
+Recovery,2,ELECTRICITY,0
+Recovery,2,WIND,0
+Recovery,2,LIGHT,0
+Recovery,2,DARK,0
+Recovery,2,LIGHT & DARK,0
+Recovery,2,RECOVERY,0
+Recovery,2,BAD STATUS,0
+Recovery,3,ALL,0
+Recovery,3,SLASH,0
+Recovery,3,STRIKE,0
+Recovery,3,PIERCE,0
+Recovery,3,FIRE,0
+Recovery,3,ICE,0
+Recovery,3,ELECTRICITY,0
+Recovery,3,WIND,0
+Recovery,3,LIGHT,0
+Recovery,3,DARK,0
+Recovery,3,LIGHT & DARK,0
+Recovery,3,RECOVERY,0
+Recovery,3,BAD STATUS,0
+Recovery,4,ALL,0
+Recovery,4,SLASH,0
+Recovery,4,STRIKE,0
+Recovery,4,PIERCE,0
+Recovery,4,FIRE,0
+Recovery,4,ICE,0
+Recovery,4,ELECTRICITY,0
+Recovery,4,WIND,0
+Recovery,4,LIGHT,0
+Recovery,4,DARK,0
+Recovery,4,LIGHT & DARK,0
+Recovery,4,RECOVERY,0
+Recovery,4,BAD STATUS,0
+Recovery,5,ALL,0
+Recovery,5,SLASH,0
+Recovery,5,STRIKE,0
+Recovery,5,PIERCE,0
+Recovery,5,FIRE,0
+Recovery,5,ICE,0
+Recovery,5,ELECTRICITY,0
+Recovery,5,WIND,0
+Recovery,5,LIGHT,0
+Recovery,5,DARK,0
+Recovery,5,LIGHT & DARK,0
+Recovery,5,RECOVERY,0
+Recovery,5,BAD STATUS,0
+Recovery,6,ALL,0
+Recovery,6,SLASH,0
+Recovery,6,STRIKE,0
+Recovery,6,PIERCE,0
+Recovery,6,FIRE,0
+Recovery,6,ICE,0
+Recovery,6,ELECTRICITY,0
+Recovery,6,WIND,0
+Recovery,6,LIGHT,0
+Recovery,6,DARK,0
+Recovery,6,LIGHT & DARK,0
+Recovery,6,RECOVERY,0
+Recovery,6,BAD STATUS,0
+Recovery,7,ALL,0
+Recovery,7,SLASH,0
+Recovery,7,STRIKE,0
+Recovery,7,PIERCE,0
+Recovery,7,FIRE,0
+Recovery,7,ICE,0
+Recovery,7,ELECTRICITY,0
+Recovery,7,WIND,0
+Recovery,7,LIGHT,0
+Recovery,7,DARK,0
+Recovery,7,LIGHT & DARK,0
+Recovery,7,RECOVERY,0
+Recovery,7,BAD STATUS,0
+Recovery,8,ALL,0
+Recovery,8,SLASH,0
+Recovery,8,STRIKE,0
+Recovery,8,PIERCE,0
+Recovery,8,FIRE,0
+Recovery,8,ICE,0
+Recovery,8,ELECTRICITY,0
+Recovery,8,WIND,0
+Recovery,8,LIGHT,0
+Recovery,8,DARK,0
+Recovery,8,LIGHT & DARK,0
+Recovery,8,RECOVERY,0
+Recovery,8,BAD STATUS,0
+Recovery,9,ALL,0
+Recovery,9,SLASH,0
+Recovery,9,STRIKE,0
+Recovery,9,PIERCE,0
+Recovery,9,FIRE,0
+Recovery,9,ICE,0
+Recovery,9,ELECTRICITY,0
+Recovery,9,WIND,0
+Recovery,9,LIGHT,0
+Recovery,9,DARK,0
+Recovery,9,LIGHT & DARK,0
+Recovery,9,RECOVERY,0
+Recovery,9,BAD STATUS,0
+Wind,1,ALL,0
+Wind,1,SLASH,0
+Wind,1,STRIKE,0
+Wind,1,PIERCE,0
+Wind,1,FIRE,0
+Wind,1,ICE,0
+Wind,1,ELECTRICITY,0
+Wind,1,WIND,0
+Wind,1,LIGHT,0
+Wind,1,DARK,0
+Wind,1,LIGHT & DARK,0
+Wind,1,RECOVERY,0
+Wind,1,BAD STATUS,0
+Wind,2,ALL,0
+Wind,2,SLASH,0
+Wind,2,STRIKE,0
+Wind,2,PIERCE,0
+Wind,2,FIRE,0
+Wind,2,ICE,0
+Wind,2,ELECTRICITY,0
+Wind,2,WIND,0
+Wind,2,LIGHT,0
+Wind,2,DARK,0
+Wind,2,LIGHT & DARK,0
+Wind,2,RECOVERY,0
+Wind,2,BAD STATUS,0
+Wind,3,ALL,0
+Wind,3,SLASH,0
+Wind,3,STRIKE,0
+Wind,3,PIERCE,0
+Wind,3,FIRE,0
+Wind,3,ICE,0
+Wind,3,ELECTRICITY,0
+Wind,3,WIND,0
+Wind,3,LIGHT,0
+Wind,3,DARK,0
+Wind,3,LIGHT & DARK,0
+Wind,3,RECOVERY,0
+Wind,3,BAD STATUS,0
+Wind,4,ALL,0
+Wind,4,SLASH,0
+Wind,4,STRIKE,0
+Wind,4,PIERCE,0
+Wind,4,FIRE,0
+Wind,4,ICE,0
+Wind,4,ELECTRICITY,0
+Wind,4,WIND,0
+Wind,4,LIGHT,0
+Wind,4,DARK,0
+Wind,4,LIGHT & DARK,0
+Wind,4,RECOVERY,0
+Wind,4,BAD STATUS,0
+Wind,5,ALL,0
+Wind,5,SLASH,0
+Wind,5,STRIKE,0
+Wind,5,PIERCE,0
+Wind,5,FIRE,0
+Wind,5,ICE,0
+Wind,5,ELECTRICITY,0
+Wind,5,WIND,0
+Wind,5,LIGHT,0
+Wind,5,DARK,0
+Wind,5,LIGHT & DARK,0
+Wind,5,RECOVERY,0
+Wind,5,BAD STATUS,0
+Wind,6,ALL,0
+Wind,6,SLASH,0
+Wind,6,STRIKE,0
+Wind,6,PIERCE,0
+Wind,6,FIRE,0
+Wind,6,ICE,0
+Wind,6,ELECTRICITY,0
+Wind,6,WIND,0
+Wind,6,LIGHT,0
+Wind,6,DARK,0
+Wind,6,LIGHT & DARK,0
+Wind,6,RECOVERY,0
+Wind,6,BAD STATUS,0
+Wind,7,ALL,0
+Wind,7,SLASH,0
+Wind,7,STRIKE,0
+Wind,7,PIERCE,0
+Wind,7,FIRE,0
+Wind,7,ICE,0
+Wind,7,ELECTRICITY,0
+Wind,7,WIND,0
+Wind,7,LIGHT,0
+Wind,7,DARK,0
+Wind,7,LIGHT & DARK,0
+Wind,7,RECOVERY,0
+Wind,7,BAD STATUS,0
+Wind,8,ALL,0
+Wind,8,SLASH,0
+Wind,8,STRIKE,0
+Wind,8,PIERCE,0
+Wind,8,FIRE,0
+Wind,8,ICE,0
+Wind,8,ELECTRICITY,0
+Wind,8,WIND,0
+Wind,8,LIGHT,0
+Wind,8,DARK,0
+Wind,8,LIGHT & DARK,0
+Wind,8,RECOVERY,0
+Wind,8,BAD STATUS,0
+Wind,9,ALL,0
+Wind,9,SLASH,0
+Wind,9,STRIKE,0
+Wind,9,PIERCE,0
+Wind,9,FIRE,0
+Wind,9,ICE,0
+Wind,9,ELECTRICITY,0
+Wind,9,WIND,0
+Wind,9,LIGHT,0
+Wind,9,DARK,0
+Wind,9,LIGHT & DARK,0
+Wind,9,RECOVERY,0
+Wind,9,BAD STATUS,0
+Strike,1,ALL,0
+Strike,1,SLASH,0
+Strike,1,STRIKE,0
+Strike,1,PIERCE,0
+Strike,1,FIRE,0
+Strike,1,ICE,0
+Strike,1,ELECTRICITY,0
+Strike,1,WIND,0
+Strike,1,LIGHT,0
+Strike,1,DARK,0
+Strike,1,LIGHT & DARK,0
+Strike,1,RECOVERY,0
+Strike,1,BAD STATUS,0
+Strike,2,ALL,0
+Strike,2,SLASH,0
+Strike,2,STRIKE,0
+Strike,2,PIERCE,0
+Strike,2,FIRE,0
+Strike,2,ICE,0
+Strike,2,ELECTRICITY,0
+Strike,2,WIND,0
+Strike,2,LIGHT,0
+Strike,2,DARK,0
+Strike,2,LIGHT & DARK,0
+Strike,2,RECOVERY,0
+Strike,2,BAD STATUS,0
+Strike,3,ALL,0
+Strike,3,SLASH,0
+Strike,3,STRIKE,0
+Strike,3,PIERCE,0
+Strike,3,FIRE,0
+Strike,3,ICE,0
+Strike,3,ELECTRICITY,0
+Strike,3,WIND,0
+Strike,3,LIGHT,0
+Strike,3,DARK,0
+Strike,3,LIGHT & DARK,0
+Strike,3,RECOVERY,0
+Strike,3,BAD STATUS,0
+Strike,4,ALL,0
+Strike,4,SLASH,0
+Strike,4,STRIKE,0
+Strike,4,PIERCE,0
+Strike,4,FIRE,0
+Strike,4,ICE,0
+Strike,4,ELECTRICITY,0
+Strike,4,WIND,0
+Strike,4,LIGHT,0
+Strike,4,DARK,0
+Strike,4,LIGHT & DARK,0
+Strike,4,RECOVERY,0
+Strike,4,BAD STATUS,0
+Strike,5,ALL,0
+Strike,5,SLASH,0
+Strike,5,STRIKE,0
+Strike,5,PIERCE,0
+Strike,5,FIRE,0
+Strike,5,ICE,0
+Strike,5,ELECTRICITY,0
+Strike,5,WIND,0
+Strike,5,LIGHT,0
+Strike,5,DARK,0
+Strike,5,LIGHT & DARK,0
+Strike,5,RECOVERY,0
+Strike,5,BAD STATUS,0
+Strike,6,ALL,0
+Strike,6,SLASH,0
+Strike,6,STRIKE,0
+Strike,6,PIERCE,0
+Strike,6,FIRE,0
+Strike,6,ICE,0
+Strike,6,ELECTRICITY,0
+Strike,6,WIND,0
+Strike,6,LIGHT,0
+Strike,6,DARK,0
+Strike,6,LIGHT & DARK,0
+Strike,6,RECOVERY,0
+Strike,6,BAD STATUS,0
+Strike,7,ALL,0
+Strike,7,SLASH,0
+Strike,7,STRIKE,0
+Strike,7,PIERCE,0
+Strike,7,FIRE,0
+Strike,7,ICE,0
+Strike,7,ELECTRICITY,0
+Strike,7,WIND,0
+Strike,7,LIGHT,0
+Strike,7,DARK,0
+Strike,7,LIGHT & DARK,0
+Strike,7,RECOVERY,0
+Strike,7,BAD STATUS,0
+Strike,8,ALL,0
+Strike,8,SLASH,0
+Strike,8,STRIKE,0
+Strike,8,PIERCE,0
+Strike,8,FIRE,0
+Strike,8,ICE,0
+Strike,8,ELECTRICITY,0
+Strike,8,WIND,0
+Strike,8,LIGHT,0
+Strike,8,DARK,0
+Strike,8,LIGHT & DARK,0
+Strike,8,RECOVERY,0
+Strike,8,BAD STATUS,0
+Strike,9,ALL,0
+Strike,9,SLASH,0
+Strike,9,STRIKE,0
+Strike,9,PIERCE,0
+Strike,9,FIRE,0
+Strike,9,ICE,0
+Strike,9,ELECTRICITY,0
+Strike,9,WIND,0
+Strike,9,LIGHT,0
+Strike,9,DARK,0
+Strike,9,LIGHT & DARK,0
+Strike,9,RECOVERY,0
+Strike,9,BAD STATUS,0
+Special,1,ALL,0
+Special,1,SLASH,0
+Special,1,STRIKE,0
+Special,1,PIERCE,0
+Special,1,FIRE,0
+Special,1,ICE,0
+Special,1,ELECTRICITY,0
+Special,1,WIND,0
+Special,1,LIGHT,0
+Special,1,DARK,0
+Special,1,LIGHT & DARK,0
+Special,1,RECOVERY,0
+Special,1,BAD STATUS,0
+Special,2,ALL,0
+Special,2,SLASH,0
+Special,2,STRIKE,0
+Special,2,PIERCE,0
+Special,2,FIRE,0
+Special,2,ICE,0
+Special,2,ELECTRICITY,0
+Special,2,WIND,0
+Special,2,LIGHT,0
+Special,2,DARK,0
+Special,2,LIGHT & DARK,0
+Special,2,RECOVERY,0
+Special,2,BAD STATUS,0
+Special,3,ALL,0
+Special,3,SLASH,0
+Special,3,STRIKE,0
+Special,3,PIERCE,0
+Special,3,FIRE,0
+Special,3,ICE,0
+Special,3,ELECTRICITY,0
+Special,3,WIND,0
+Special,3,LIGHT,0
+Special,3,DARK,0
+Special,3,LIGHT & DARK,0
+Special,3,RECOVERY,0
+Special,3,BAD STATUS,0
+Special,4,ALL,0
+Special,4,SLASH,0
+Special,4,STRIKE,0
+Special,4,PIERCE,0
+Special,4,FIRE,0
+Special,4,ICE,0
+Special,4,ELECTRICITY,0
+Special,4,WIND,0
+Special,4,LIGHT,0
+Special,4,DARK,0
+Special,4,LIGHT & DARK,0
+Special,4,RECOVERY,0
+Special,4,BAD STATUS,0
+Special,5,ALL,0
+Special,5,SLASH,0
+Special,5,STRIKE,0
+Special,5,PIERCE,0
+Special,5,FIRE,0
+Special,5,ICE,0
+Special,5,ELECTRICITY,0
+Special,5,WIND,0
+Special,5,LIGHT,0
+Special,5,DARK,0
+Special,5,LIGHT & DARK,0
+Special,5,RECOVERY,0
+Special,5,BAD STATUS,0
+Special,6,ALL,0
+Special,6,SLASH,0
+Special,6,STRIKE,0
+Special,6,PIERCE,0
+Special,6,FIRE,0
+Special,6,ICE,0
+Special,6,ELECTRICITY,0
+Special,6,WIND,0
+Special,6,LIGHT,0
+Special,6,DARK,0
+Special,6,LIGHT & DARK,0
+Special,6,RECOVERY,0
+Special,6,BAD STATUS,0
+Special,7,ALL,0
+Special,7,SLASH,0
+Special,7,STRIKE,0
+Special,7,PIERCE,0
+Special,7,FIRE,0
+Special,7,ICE,0
+Special,7,ELECTRICITY,0
+Special,7,WIND,0
+Special,7,LIGHT,0
+Special,7,DARK,0
+Special,7,LIGHT & DARK,0
+Special,7,RECOVERY,0
+Special,7,BAD STATUS,0
+Special,8,ALL,0
+Special,8,SLASH,0
+Special,8,STRIKE,0
+Special,8,PIERCE,0
+Special,8,FIRE,0
+Special,8,ICE,0
+Special,8,ELECTRICITY,0
+Special,8,WIND,0
+Special,8,LIGHT,0
+Special,8,DARK,0
+Special,8,LIGHT & DARK,0
+Special,8,RECOVERY,0
+Special,8,BAD STATUS,0
+Special,9,ALL,0
+Special,9,SLASH,0
+Special,9,STRIKE,0
+Special,9,PIERCE,0
+Special,9,FIRE,0
+Special,9,ICE,0
+Special,9,ELECTRICITY,0
+Special,9,WIND,0
+Special,9,LIGHT,0
+Special,9,DARK,0
+Special,9,LIGHT & DARK,0
+Special,9,RECOVERY,0
+Special,9,BAD STATUS,0
+Almighty,1,ALL,0
+Almighty,1,SLASH,0
+Almighty,1,STRIKE,0
+Almighty,1,PIERCE,0
+Almighty,1,FIRE,0
+Almighty,1,ICE,0
+Almighty,1,ELECTRICITY,0
+Almighty,1,WIND,0
+Almighty,1,LIGHT,0
+Almighty,1,DARK,0
+Almighty,1,LIGHT & DARK,0
+Almighty,1,RECOVERY,0
+Almighty,1,BAD STATUS,0
+Almighty,2,ALL,0
+Almighty,2,SLASH,0
+Almighty,2,STRIKE,0
+Almighty,2,PIERCE,0
+Almighty,2,FIRE,0
+Almighty,2,ICE,0
+Almighty,2,ELECTRICITY,0
+Almighty,2,WIND,0
+Almighty,2,LIGHT,0
+Almighty,2,DARK,0
+Almighty,2,LIGHT & DARK,0
+Almighty,2,RECOVERY,0
+Almighty,2,BAD STATUS,0
+Almighty,3,ALL,0
+Almighty,3,SLASH,0
+Almighty,3,STRIKE,0
+Almighty,3,PIERCE,0
+Almighty,3,FIRE,0
+Almighty,3,ICE,0
+Almighty,3,ELECTRICITY,0
+Almighty,3,WIND,0
+Almighty,3,LIGHT,0
+Almighty,3,DARK,0
+Almighty,3,LIGHT & DARK,0
+Almighty,3,RECOVERY,0
+Almighty,3,BAD STATUS,0
+Almighty,4,ALL,0
+Almighty,4,SLASH,0
+Almighty,4,STRIKE,0
+Almighty,4,PIERCE,0
+Almighty,4,FIRE,0
+Almighty,4,ICE,0
+Almighty,4,ELECTRICITY,0
+Almighty,4,WIND,0
+Almighty,4,LIGHT,0
+Almighty,4,DARK,0
+Almighty,4,LIGHT & DARK,0
+Almighty,4,RECOVERY,0
+Almighty,4,BAD STATUS,0
+Almighty,5,ALL,0
+Almighty,5,SLASH,0
+Almighty,5,STRIKE,0
+Almighty,5,PIERCE,0
+Almighty,5,FIRE,0
+Almighty,5,ICE,0
+Almighty,5,ELECTRICITY,0
+Almighty,5,WIND,0
+Almighty,5,LIGHT,0
+Almighty,5,DARK,0
+Almighty,5,LIGHT & DARK,0
+Almighty,5,RECOVERY,0
+Almighty,5,BAD STATUS,0
+Almighty,6,ALL,0
+Almighty,6,SLASH,0
+Almighty,6,STRIKE,0
+Almighty,6,PIERCE,0
+Almighty,6,FIRE,0
+Almighty,6,ICE,0
+Almighty,6,ELECTRICITY,0
+Almighty,6,WIND,0
+Almighty,6,LIGHT,0
+Almighty,6,DARK,0
+Almighty,6,LIGHT & DARK,0
+Almighty,6,RECOVERY,0
+Almighty,6,BAD STATUS,0
+Almighty,7,ALL,0
+Almighty,7,SLASH,0
+Almighty,7,STRIKE,0
+Almighty,7,PIERCE,0
+Almighty,7,FIRE,0
+Almighty,7,ICE,0
+Almighty,7,ELECTRICITY,0
+Almighty,7,WIND,0
+Almighty,7,LIGHT,0
+Almighty,7,DARK,0
+Almighty,7,LIGHT & DARK,0
+Almighty,7,RECOVERY,0
+Almighty,7,BAD STATUS,0
+Almighty,8,ALL,0
+Almighty,8,SLASH,0
+Almighty,8,STRIKE,0
+Almighty,8,PIERCE,0
+Almighty,8,FIRE,0
+Almighty,8,ICE,0
+Almighty,8,ELECTRICITY,0
+Almighty,8,WIND,0
+Almighty,8,LIGHT,0
+Almighty,8,DARK,0
+Almighty,8,LIGHT & DARK,0
+Almighty,8,RECOVERY,0
+Almighty,8,BAD STATUS,0
+Almighty,9,ALL,0
+Almighty,9,SLASH,0
+Almighty,9,STRIKE,0
+Almighty,9,PIERCE,0
+Almighty,9,FIRE,0
+Almighty,9,ICE,0
+Almighty,9,ELECTRICITY,0
+Almighty,9,WIND,0
+Almighty,9,LIGHT,0
+Almighty,9,DARK,0
+Almighty,9,LIGHT & DARK,0
+Almighty,9,RECOVERY,0
+Almighty,9,BAD STATUS,0
