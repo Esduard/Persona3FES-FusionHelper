@@ -596,11 +596,16 @@
     },
     {
         "name": "Orobas",
-        "level": 34,
+        "level": 39,
         "skills": [
             "Sharp Student",
             "Rakukaja",
-            "Garula"
+            "Garula",
+            "Panta Rhei",
+            "Wind Amp",
+            "Wind Break",
+            "Trafuri",
+            "Wind Boost"
         ]
     },
     {
@@ -1051,6 +1056,20 @@
         ]
     },
     {
+        "name": "Surt",
+        "level": 58,
+        "skills": [
+            "Fire Boost",
+            "Wind Amp",
+            "High Counter",
+            "Salvation",
+            "Mind Charge",
+            "Megidola",
+            "Ragnarok",
+            "Elec Amp"
+        ]
+    },
+    {
         "name": "Pazuzu",
         "level": 59,
         "skills": [
@@ -1434,9 +1453,14 @@
         "name": "Skadi",
         "level": 80,
         "skills": [
-            "Mabufudyne",
-            "Tetrakarn",
-            "Ice Amp"
+            "Ice Amp",
+            "Wind Boost",
+            "Unshaken Will",
+            "High Counter",
+            "Mind Charge",
+            "Wind Amp",
+            "Absorb Fire",
+            "Niflheim"
         ]
     },
     {
@@ -1451,6 +1475,20 @@
             "Repel Light",
             "Auto-Tarukaja",
             "Victory Cry"
+        ]
+    },
+    {
+        "name": "Skadi",
+        "level": 84,
+        "skills": [
+            "Mabufudyne",
+            "Ice Amp",
+            "Wind Boost",
+            "Unshaken Will",
+            "High Counter",
+            "Mind Charge",
+            "Wind Amp",
+            "Absorb Fire"
         ]
     },
     {
