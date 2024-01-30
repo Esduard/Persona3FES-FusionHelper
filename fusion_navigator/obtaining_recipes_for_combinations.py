@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[4]:
+
+
+#!/usr/bin/env python
+# coding: utf-8
+
 # In[1]:
 
 
@@ -14,17 +20,13 @@ import sys
 list_of_persona_inherit_types = ['ALL', 'SLASH', 'STRIKE', 'PIERCE', 'FIRE', 'ICE', 'ELECTRICITY', 'WIND', 'LIGHT', 'DARK', 'LIGHT & DARK', 'RECOVERY', 'BAD STATUS']
 
 # Check if command line argument is provided and is a valid index
+
+# Check if command line argument is provided and is a valid index
 if len(sys.argv) > 1 and sys.argv[1].isdigit() and int(sys.argv[1]) < len(list_of_persona_inherit_types):
     global_persona_inherit_type = list_of_persona_inherit_types[int(sys.argv[1])]
     print(global_persona_inherit_type)
 else:
     print("Please provide a valid index as a command line argument.")
-
-# Open the file
-f = open('logs-{}-output.txt'.format(global_persona_inherit_type), 'w')
-
-# Redirect stdout to the file
-sys.stdout = f
 
 
 personae_path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/personae.json'
@@ -699,14 +701,14 @@ class Persona:
         self.ammount_of_base_skills = ammount_of_base_skills(self.name)
 
     def __str__(self):
-        return (f"Name: {self.name}\\n"
-                f"Level: {self.level}\\n"
-                f"Arcana: {self.arcana}\\n"
-                f"Special: {self.special}\\n"
-                f"Base Level: {self.base_level}\\n"
-                f"Base Level + 5: {self.base_level_plus_5}\\n"
-                f"Skills: {', '.join(self.skills)}\\n"
-                f"Ammount of Base Skills: {self.ammount_of_base_skills}\\n")
+        return (f"Name: {self.name}\n"
+                f"Level: {self.level}\n"
+                f"Arcana: {self.arcana}\n"
+                f"Special: {self.special}\n"
+                f"Base Level: {self.base_level}\n"
+                f"Base Level + 5: {self.base_level_plus_5}\n"
+                f"Skills: {', '.join(self.skills)}\n"
+                f"Ammount of Base Skills: {self.ammount_of_base_skills}\n")
 
     def __lt__(self, other):
         return self.name < other.name
@@ -790,31 +792,31 @@ class Recipe():
         # count ammount of true values in the dictionary
         count = sum(self.coverage_dict.values())
 
-        persona_names = [persona.name for persona in self.personas]
+        persona_names = [(persona.name,persona.level,persona.arcana) for persona in self.personas]
 
-        return (f"Personas: {persona_names}\\n"
-                f"Skills: {self.skills_set}\\n"
-                f"Resulting Persona: {self.resulting_persona_name}\\n"
-                f"Coverage: {self.coverage_dict}\\n"
-                f"Coverage Ammount: {count}\\n"
-                f"Base Skills Ammount: {self.ammount_of_base_skills}\\n"
-                f"Inherited Skills Ammount: {self.ammount_of_inherited_skills}\\n"
-                "------------------------\\n")
+        return (f"Personas: {persona_names}\n"
+                f"Skills: {self.skills_set}\n"
+                f"Resulting Persona: {self.resulting_persona_name}\n"
+                f"Coverage: {self.coverage_dict}\n"
+                f"Coverage Ammount: {count}\n"
+                f"Base Skills Ammount: {self.amount_of_base_skills}\n"
+                f"Inherited Skills Ammount: {self.amount_of_inherited_skills}\n"
+                "------------------------\n")
     
     def __repr__(self):
 
         count = sum(self.coverage_dict.values())
 
-        persona_names = [persona.name for persona in self.personas]
+        persona_names = [(persona.name,persona.level,persona.arcana) for persona in self.personas]
 
-        return (f"Personas: {persona_names}\\n"
-                f"Skills: {self.skills_set}\\n"
-                f"Resulting Persona: {self.resulting_persona_name}\\n"
-                f"Coverage: {self.coverage_dict}\\n"
-                f"Coverage Ammount: {count}\\n"
-                f"Base Skills Ammount: {self.ammount_of_base_skills}\\n"
-                f"Inherited Skills Ammount: {self.ammount_of_inherited_skills}\\n"
-                "------------------------\\n")
+        return (f"Personas: {persona_names}\n"
+                f"Skills: {self.skills_set}\n"
+                f"Resulting Persona: {self.resulting_persona_name}\n"
+                f"Coverage: {self.coverage_dict}\n"
+                f"Coverage Ammount: {count}\n"
+                f"Base Skills Ammount: {self.amount_of_base_skills}\n"
+                f"Inherited Skills Ammount: {self.amount_of_inherited_skills}\n"
+                "------------------------\n")
 
 
 all_fucking_recipes = []
@@ -983,137 +985,59 @@ filtered_recipes.sort()
 print(len(filtered_recipes))
 
 
-# integer programming
-
-# In[ ]:
-print("defining constraints dictionary")
-
-dict_constraints = {}
-
-for i in range(len(filtered_recipes)):
-    recipe = filtered_recipes[i]
-    coverage_dict = recipe.coverage_dict
-    if i == len(filtered_recipes)-1:
-        None
-        # print(len(coverage_dict.keys()))
-    for key, value, in coverage_dict.items():
-        if value == True:
-            # add empty list if key does not exist
-            if key not in dict_constraints:
-                dict_constraints[key] = []
-            dict_constraints[key].append(i)
-            
-dict_constraints_keys = list(dict_constraints.keys())
-dict_constraints_keys.sort()
-
-#if not all keys are found discover which ones and assume they are true for everyone
-
-total_dict = load_empty_total_dict()
-
-total_dict_keys = total_dict.keys()
-
-print("Keys not found:")
-not_found_count = 0
-list_not_found = []
-
-for total_key in total_dict_keys:
-    if total_key not in dict_constraints_keys:
-        print(total_key)
-        list_not_found.append(total_key)
-        dict_constraints[total_key] = "Full"
-
-dict_constraints_keys = list(dict_constraints.keys())
-dict_constraints_keys.sort()
-
-print("amount not found: ", not_found_count)
-
-# Save list_not_found to a file
-with open('logs-{}-keys_not_found.txt'.format(global_persona_inherit_type), 'w') as f:
-    for item in list_not_found:
-        f.write("%s\n" % str(item))
-
-import numpy as np
-
-# Assuming 'filtered_recipes' is a list and 'dict_constraints' is a dictionary
-num_keys = len(dict_constraints_keys)
-num_recipes = len(filtered_recipes)
-
-from scipy.sparse import lil_matrix
-
-# Initialize a LIL (List of Lists) sparse matrix
-sparse_a = lil_matrix((num_keys, num_recipes), dtype=int)
-
-print("creating matrix")
-
-# Iterate over the keys and update the sparse matrix
-for index, key in enumerate(dict_constraints_keys):
-    coverage_index_list = dict_constraints[key]
-
-    if coverage_index_list == "Full":
-        # Update all entries in the column
-        sparse_a[index, :] = 1
-    else:
-        # Update only the non-zero entries
-        sparse_a[index, coverage_index_list] = 1
-
-# Optionally, convert to a more efficient format like CSR (Compressed Sparse Row)
-sparse_a = sparse_a.tocsr()
+# In[5]:
 
 
+import re
+sys.stdout = sys.__stdout__
+# Open the file
+with open("logs-{}-output.txt".format(global_persona_inherit_type, "r")) as file:
+    # Read the file
+    content = file.read()
+# Find the line that starts with "Selected recipes (indexed at j):"
+match = re.search(r"Selected recipes \(indexed at j\):(.*)", content)
 
-# In[ ]:
+if match:
+    # Extract the list of integers
+    numbers = re.findall(r"\d+", match.group(1))
+
+    # Convert the numbers to integers
+    numbers = [int(number) for number in numbers]
+
+    print("number of recipes required: {}".format(len(numbers)))
+    print(numbers)
+else:
+    print("No match found")
 
 
-import numpy as np
+# In[6]:
 
-from scipy.sparse import save_npz
 
-# Save the sparse matrix to a file
-sparse_matrix_path = "logs-{}-sparse_matrix.npz".format(global_persona_inherit_type)
-save_npz(sparse_matrix_path, sparse_a)
-print("saved matrix")
+list_of_index_of_best_solutions = numbers
 
-# In[ ]:
-from scipy.sparse import load_npz
-print("using to solve problem")
-# Load the sparse matrix from the file
-sparse_a = load_npz(sparse_matrix_path)
+# Open the file
+f = open('logs-{}-optimal_recipes.txt'.format(global_persona_inherit_type), 'w')
 
-# Convert to CSR format for efficient row slicing
-sparse_a_csr = sparse_a.tocsr()
+# Redirect stdout to the file
+sys.stdout = f
 
-# Number of recipes (n) and tags (m)
-m, n = sparse_a_csr.shape
+list_of_best_solutions = []
 
-import pulp
-from tqdm import tqdm
+for i in list_of_index_of_best_solutions:
+    list_of_best_solutions.append(filtered_recipes[i])
+    print(filtered_recipes[i])
 
-# Create the problem variable
-prob = pulp.LpProblem("Recipe_Selection", pulp.LpMinimize)
+list_of_best_solutions
 
-# Decision variables
-x = [pulp.LpVariable(f'x{j}', cat='Binary') for j in range(n)]
+coverage = coverage_of_list_of_recipes(list_of_best_solutions)
 
-# Objective function
-prob += pulp.lpSum(x)
+compare_cvg_total_dict = len(list(load_empty_total_dict().keys()))
 
-# Constraints
-for i in tqdm(range(m)):  # for each tag
-    row = sparse_a_csr.getrow(i).toarray().ravel()
-    prob += pulp.lpSum(row[j] * x[j] for j in range(n)) >= 1, f"TagCoverage{i}"
-print("solve...")
-# Solve the problem
-prob.solve()
-
-# Print the results
-print("Status:", pulp.LpStatus[prob.status])
-print("Minimum number of recipes:", pulp.value(prob.objective))
-selected_recipes = [j for j in range(n) if x[j].varValue == 1]
-print("Selected recipes (indexed at j):", selected_recipes)
+print("{}/{} = {}".format(coverage,compare_cvg_total_dict,coverage/compare_cvg_total_dict))
 
 sys.stdout = sys.__stdout__
 f.close()
 
 
+# In[7]:
 
-# Next code refers to a failed attempt at a genetic algorithm

@@ -1450,20 +1450,6 @@
         ]
     },
     {
-        "name": "Skadi",
-        "level": 80,
-        "skills": [
-            "Ice Amp",
-            "Wind Boost",
-            "Unshaken Will",
-            "High Counter",
-            "Mind Charge",
-            "Wind Amp",
-            "Absorb Fire",
-            "Niflheim"
-        ]
-    },
-    {
         "name": "Satan",
         "level": 84,
         "skills": [
@@ -1479,16 +1465,16 @@
     },
     {
         "name": "Skadi",
-        "level": 84,
+        "level": 86,
         "skills": [
-            "Mabufudyne",
             "Ice Amp",
             "Wind Boost",
             "Unshaken Will",
             "High Counter",
             "Mind Charge",
             "Wind Amp",
-            "Absorb Fire"
+            "Absorb Fire",
+            "Niflheim"
         ]
     },
     {
