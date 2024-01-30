@@ -10,27 +10,27 @@
 # In[2]:
 import json
 
-personae_path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/personae.json'
-#personae_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\personae.json'
+#personae_path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/personae.json'
+personae_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\personae.json'
 with open(personae_path, 'r') as fp:
     personae = json.load(fp)
 
 
 # open json file and read contenta as a list of dictionaries
-#combos2path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\combos2.json'
-combos2path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/combos2.json'
+combos2path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\combos2.json'
+#combos2path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/combos2.json'
 with open(combos2path, 'r') as fp:
     arcana2Combos = json.load(fp)
 
 
-combos3path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/combos3.json'
-#combos3path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\combos3.json'
+#combos3path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/combos3.json'
+combos3path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\combos3.json'
 with open(combos3path, 'r') as fp:
     arcana3Combos = json.load(fp)
 
 
-# specialCombos_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\specialCombos.json'
-specialCombos_path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/specialCombos.json'
+specialCombos_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\specialCombos.json'
+#specialCombos_path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/specialCombos.json'
 with open(specialCombos_path, 'r') as fp:
     specialCombos = json.load(fp)
 
@@ -47,8 +47,8 @@ class PersonaCompendiumExtracted:
 import json
 
 
-# persona_compendium_save_file_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\persona_compendium_save_file.json'
-persona_compendium_save_file_path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/persona_compendium_save_file.json'
+persona_compendium_save_file_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\fusion_navigator\\persona_compendium_save_file.json'
+#persona_compendium_save_file_path = '/home/eduardo/Documents/Persona3/AutoTelos/fusion_navigator/persona_compendium_save_file.json'
 # Load the JSON file
 with open(persona_compendium_save_file_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -296,8 +296,8 @@ def print_sources(recipes, file):
 import pandas as pd
 
 
-# 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\skills_list\\skills.csv'
-skills_csv_path = "/home/eduardo/Documents/Persona3/AutoTelos/skills_list/skills.csv"
+skills_csv_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\skills_list\\skills.csv'
+#skills_csv_path = "/home/eduardo/Documents/Persona3/AutoTelos/skills_list/skills.csv"
 df = pd.read_csv(skills_csv_path)
 
 #print(df)
@@ -318,12 +318,12 @@ def get_skill_rank(skill_name):
 
 persona_name = 'chi you'
 
-# 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\inheritance_calculator\\inheritance.csv'
-inheritance_csv_path = '/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/inheritance.csv'
+inheritance_csv_path ='C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\inheritance_calculator\\inheritance.csv'
+#inheritance_csv_path = '/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/inheritance.csv'
 inheritance_df = pd.read_csv(inheritance_csv_path)
 
-# 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\inheritance_calculator\\personas_inheritance.csv'
-personas_inheritance_csv_path = '/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/personas_inheritance.csv'
+personas_inheritance_csv_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\inheritance_calculator\\personas_inheritance.csv'
+#personas_inheritance_csv_path = '/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/personas_inheritance.csv'
 persona_inheritance_df = pd.read_csv(personas_inheritance_csv_path)
 
 # get the type of the persona 'chi you' in the persona_inheritance_df
@@ -510,8 +510,8 @@ desired_skills = mandatory_skills + optional_skills
 
 import pandas as pd
 
-# 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\inheritance_calculator\\personas_inheritance.csv'
-personas_inheritance_csv_path = '/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/personas_inheritance.csv'
+personas_inheritance_csv_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\inheritance_calculator\\personas_inheritance.csv'
+#personas_inheritance_csv_path = '/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/personas_inheritance.csv'
 persona_inheritance_df = pd.read_csv(personas_inheritance_csv_path)
 
 # Convert the dataframe to a dictionary
@@ -530,8 +530,8 @@ def get_persona_inheritance_type(persona_name):
 
 # open json file into a dictionary
 
-# 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\skills_list\\skills.csv'
-skills_csv_path = "/home/eduardo/Documents/Persona3/AutoTelos/skills_list/skills.csv"
+skills_csv_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\skills_list\\skills.csv'
+#skills_csv_path = "/home/eduardo/Documents/Persona3/AutoTelos/skills_list/skills.csv"
 df = pd.read_csv(skills_csv_path)
 
 #print(df)
@@ -560,8 +560,8 @@ for st in unique_skill_types:
             pair_exist.append((st,sr))
 
 def load_empty_total_dict():
-    # 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\inheritance_calculator\\combinations.json'
-    combinations_json_path = '/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/combinations.json'
+    combinations_json_path= 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\inheritance_calculator\\combinations.json'
+    #combinations_json_path = '/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/combinations.json'
     with open(combinations_json_path, 'r') as fp:
         total_combinations_dict = json.load(fp)
 
@@ -592,8 +592,8 @@ import ast
 
 import pandas as pd
 # Load the CSV file into a DataFrame
-# 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\skills_list\\inheritable_skills_with_levels.csv'
-inheritable_skills_csv_path = '/home/eduardo/Documents/Persona3/AutoTelos/skills_list/inheritable_skills_with_levels.csv'
+inheritable_skills_csv_path = 'C:\\Users\\Eduardo\\Documents\\Projects\\AutoTelos\\Persona3FES-FusionHelper\\skills_list\\inheritable_skills_with_levels.csv'
+#inheritable_skills_csv_path = '/home/eduardo/Documents/Persona3/AutoTelos/skills_list/inheritable_skills_with_levels.csv'
 df = pd.read_csv(inheritable_skills_csv_path)
 
 #print all lines of the dataframe
