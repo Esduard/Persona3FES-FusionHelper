@@ -5,6 +5,7 @@ Coverage: {('ALL', 1, 'Almighty'): 1, ('ALL', 1, 'Bad Status'): 0, ('ALL', 1, 'D
 Coverage Ammount: 57
 Base Skills Ammount: 3
 Inherited Skills Ammount: 5
+key f1
 ------------------------
 
 Personas: [('thor', 58, 'Chariot'), ('surt', 58, 'Magician'), ('valkyrie', 17, 'Strength')]
@@ -14,6 +15,7 @@ Coverage: {('ALL', 1, 'Almighty'): 1, ('ALL', 1, 'Bad Status'): 0, ('ALL', 1, 'D
 Coverage Ammount: 52
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f2
 ------------------------
 
 
