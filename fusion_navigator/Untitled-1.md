@@ -1,0 +1,1 @@
+https://www.reddit.com/r/PERSoNA/comments/kxikoe/persona_3_fess_inheritance_system_is_really/?rdt=34393https://www.reddit.com/r/PERSoNA/comments/kxikoe/persona_3_fess_inheritance_system_is_really/?rdt=34393

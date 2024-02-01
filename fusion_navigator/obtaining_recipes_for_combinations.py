@@ -677,6 +677,11 @@ def ammount_of_base_skills(persona_name):
     base_skills = [skill for skill in persona_skills if skill.level is None]
     return len(base_skills)
 
+def get_base_skills(persona_name):
+    persona_skills = skill_dict[persona_name]
+    base_skills = [skill.name for skill in persona_skills if skill.level is None]
+    return base_skills
+
 print(ammount_of_base_skills('chi you'))
 
 
@@ -765,12 +770,12 @@ key_index_map = {key: index for index, key in enumerate(sorted_keys)}
 
 
 class Recipe():
-    def __init__(self, personas, skills_set, resulting_persona_name, coverage_dict=None):
+    def __init__(self, personas, amount_of_inherited_skills, skills_set, resulting_persona_name, coverage_dict=None):
         self.personas = personas
         self.skills_set = skills_set
         self.resulting_persona_name = resulting_persona_name
         self.amount_of_base_skills = ammount_of_base_skills(resulting_persona_name)  # Assuming this is defined elsewhere
-        self.amount_of_inherited_skills = get_ammount_of_inherited_skills(self.skills_set)  # Assuming this is defined elsewhere
+        self.amount_of_inherited_skills = amount_of_inherited_skills  # Assuming this is defined elsewhere
 
         # Create a bitarray for the values
         self.coverage_bits = bitarray(len(sorted_keys))
@@ -842,12 +847,18 @@ for persona in tqdm(personae):
     
     all_recipes = current_p.all_recipes
 
+    base_skills = get_base_skills(persona_name)
+
     for recipe in all_recipes:
         # make all values in the dictionary be the last iteration
         personas = []
         recipe_skills = []
 
         coverage_dict = total_dict.copy()
+
+        all_skills_in_parent_personas = []
+
+
         for parent in recipe['sources']:
             name = parent.get('name', 'Unknown')
             if name not in all_personas:
@@ -863,6 +874,9 @@ for persona in tqdm(personae):
                 recipe_skills.append(s)
 
             for s in current_p.skills:
+                all_skills_in_parent_personas.append(s)
+                if s in base_skills:
+                    continue
                 skill_type = get_skill_type(s)
                 skill_rank = get_skill_rank(s)
                 triple_rank_skilltype_inherittype = (persona_inherit_type, skill_rank, skill_type)
@@ -870,7 +884,10 @@ for persona in tqdm(personae):
                 
         recipe_skills_set_list = list(set(recipe_skills))
 
-        currect_recipe = Recipe(personas, recipe_skills_set_list,resulting_persona_name=persona_name,coverage_dict=coverage_dict)
+        amount_of_inherited_skills = get_ammount_of_inherited_skills(all_skills_in_parent_personas)
+
+
+        currect_recipe = Recipe(personas,amount_of_inherited_skills, recipe_skills_set_list,resulting_persona_name=persona_name,coverage_dict=coverage_dict)
         coverage_dict = None
         all_fucking_recipes.append(currect_recipe)
         
@@ -905,7 +922,7 @@ def coverage_of_list_of_recipes(list_of_recipes):
             
     # count the ammount of True values in the dictionary
     count = sum(total_dict.values())
-    return count
+    return count, total_dict
 
 recipe = all_fucking_recipes[:1]
 #print(recipe[0].coverage_dict)
@@ -991,7 +1008,7 @@ print(len(filtered_recipes))
 import re
 sys.stdout = sys.__stdout__
 # Open the file
-with open("logs-{}-output.txt".format(global_persona_inherit_type, "r")) as file:
+with open("logs_optimal_solutions/logs-{}-output.txt".format(global_persona_inherit_type, "r")) as file:
     # Read the file
     content = file.read()
 # Find the line that starts with "Selected recipes (indexed at j):"
@@ -1016,7 +1033,7 @@ else:
 list_of_index_of_best_solutions = numbers
 
 # Open the file
-f = open('logs-{}-optimal_recipes.txt'.format(global_persona_inherit_type), 'w')
+f = open('logs_optimal_solutions/logs-{}-optimal_recipes.txt'.format(global_persona_inherit_type), 'w')
 
 # Redirect stdout to the file
 sys.stdout = f
@@ -1029,11 +1046,20 @@ for i in list_of_index_of_best_solutions:
 
 list_of_best_solutions
 
-coverage = coverage_of_list_of_recipes(list_of_best_solutions)
+coverage, dict_cvg = coverage_of_list_of_recipes(list_of_best_solutions)
 
 compare_cvg_total_dict = len(list(load_empty_total_dict().keys()))
 
 print("{}/{} = {}".format(coverage,compare_cvg_total_dict,coverage/compare_cvg_total_dict))
+
+if coverage == compare_cvg_total_dict:
+    print("All skills are covered")
+
+else:
+    print("Not all skills are covered")
+    for key in dict_cvg:
+        if dict_cvg[key] == False:
+            print(key)
 
 sys.stdout = sys.__stdout__
 f.close()
