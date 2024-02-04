@@ -5,6 +5,7 @@ Coverage: {('ELECTRICITY', 1, 'Almighty'): 1, ('ELECTRICITY', 1, 'Bad Status'): 
 Coverage Ammount: 71
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f1
 ------------------------
 
 Personas: [('barong', 57, 'Emperor'), ('throne', 57, 'Justice'), ('power', 30, 'Justice')]
@@ -14,6 +15,7 @@ Coverage: {('ELECTRICITY', 1, 'Almighty'): 1, ('ELECTRICITY', 1, 'Bad Status'): 
 Coverage Ammount: 74
 Base Skills Ammount: 3
 Inherited Skills Ammount: 5
+key f2
 ------------------------
 
 Personas: [('chi you', 91, 'Tower'), ('siegfried', 64, 'Strength'), ('cu chulainn', 43, 'Tower')]
@@ -23,6 +25,7 @@ Coverage: {('ELECTRICITY', 1, 'Almighty'): 1, ('ELECTRICITY', 1, 'Bad Status'): 
 Coverage Ammount: 75
 Base Skills Ammount: 2
 Inherited Skills Ammount: 5
+key f3
 ------------------------
 
 Personas: [('daisoujou', 58, 'Hierophant'), ('ubelluris', 48, 'Hanged Man'), ('power', 30, 'Justice')]
@@ -32,6 +35,7 @@ Coverage: {('ELECTRICITY', 1, 'Almighty'): 1, ('ELECTRICITY', 1, 'Bad Status'): 
 Coverage Ammount: 72
 Base Skills Ammount: 3
 Inherited Skills Ammount: 4
+key f4
 ------------------------
 
 Personas: [('helel', 99, 'Star'), ('orthrus', 33, 'Hanged Man'), ('take-mikazuchi', 32, 'Emperor')]
@@ -41,6 +45,7 @@ Coverage: {('ELECTRICITY', 1, 'Almighty'): 1, ('ELECTRICITY', 1, 'Bad Status'): 
 Coverage Ammount: 74
 Base Skills Ammount: 3
 Inherited Skills Ammount: 5
+
 ------------------------
 
 Personas: [('loki', 63, 'Fool'), ('odin', 71, 'Emperor'), ('slime', 12, 'Fool')]
