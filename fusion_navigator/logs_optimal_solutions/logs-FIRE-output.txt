@@ -1,9 +1,9 @@
-missing pairs:  [('Elec', 7), ('Elec', 8), ('Elec', -1), ('Bad Status', 6), ('Bad Status', 7), ('Bad Status', 9), ('Bad Status', -1), ('Fire', 7), ('Fire', 8), ('Fire', -1), ('Special', 1), ('Special', 2), ('Special', 3), ('Special', 4), ('Special', 5), ('Special', 6), ('Special', 9), ('Special', -1), ('Strike', 9), ('Strike', -1), ('Almighty', 1), ('Almighty', 5), ('Almighty', -1), ('Wind', 7), ('Wind', 8), ('Wind', -1), ('Enhance', 1), ('Enhance', 6), ('Enhance', 8), ('Enhance', 9), ('Enhance', -1), ('Dark', 1), ('Dark', 6), ('Dark', 7), ('Dark', 8), ('Dark', -1), ('Passive', -1), ('Light', 1), ('Light', 6), ('Light', 7), ('Light', 8), ('Light', -1), ('Pierce', 9), ('Pierce', -1), ('Recovery', 8), ('Recovery', -1), ('Ice', 7), ('Ice', 8), ('Ice', -1), ('Slash', 9)]
+missing pairs:  [('Enhance', 1), ('Enhance', 6), ('Enhance', 8), ('Enhance', 9), ('Enhance', -1), ('Bad Status', 6), ('Bad Status', 7), ('Bad Status', 9), ('Bad Status', -1), ('Wind', 7), ('Wind', 8), ('Wind', -1), ('Strike', 9), ('Strike', -1), ('Dark', 1), ('Dark', 6), ('Dark', 7), ('Dark', 8), ('Dark', -1), ('Ice', 7), ('Ice', 8), ('Ice', -1), ('Light', 1), ('Light', 6), ('Light', 7), ('Light', 8), ('Light', -1), ('Elec', 7), ('Elec', 8), ('Elec', -1), ('Recovery', 8), ('Recovery', -1), ('Special', 1), ('Special', 2), ('Special', 3), ('Special', 4), ('Special', 5), ('Special', 6), ('Special', 9), ('Special', -1), ('Passive', -1), ('Fire', 7), ('Fire', 8), ('Fire', -1), ('Pierce', 9), ('Pierce', -1), ('Almighty', 1), ('Almighty', 5), ('Almighty', -1), ('Slash', 9)]
 missing pairs ammount:  50
 Creating giant list
-70470
+69545
 filter recipes
-44596
+44196
 defining constraints dictionary
 Keys not found:
 amount not found:  0
@@ -13,4 +13,4 @@ using to solve problem
 solve...
 Status: Optimal
 Minimum number of recipes: 9.0
-Selected recipes (indexed at j): [9807, 12482, 15002, 16804, 21111, 21963, 23926, 38903, 43779]
+Selected recipes (indexed at j): [1774, 9195, 13913, 14931, 21440, 21523, 38404, 39594, 41257]
