@@ -1,0 +1,16 @@
+missing pairs:  [('Enhance', 1), ('Enhance', 6), ('Enhance', 8), ('Enhance', 9), ('Dark', 1), ('Dark', 6), ('Dark', 7), ('Dark', 8), ('Fire', 7), ('Fire', 8), ('Elec', 7), ('Elec', 8), ('Bad Status', 6), ('Bad Status', 7), ('Bad Status', 9), ('Wind', 7), ('Wind', 8), ('Recovery', 8), ('Pierce', 9), ('Light', 1), ('Light', 6), ('Light', 7), ('Light', 8), ('Strike', 9), ('Special', 1), ('Special', 2), ('Special', 3), ('Special', 4), ('Special', 5), ('Special', 6), ('Special', 9), ('Almighty', 1), ('Almighty', 5), ('Slash', 9), ('Ice', 7), ('Ice', 8)]
+missing pairs ammount:  36
+Creating giant list
+33549
+filter recipes
+24844
+defining constraints dictionary
+Keys not found:
+amount not found:  0
+creating matrix
+saved matrix
+using to solve problem
+solve...
+Status: Optimal
+Minimum number of recipes: 10.0
+Selected recipes (indexed at j): [5206, 8084, 12318, 12626, 15221, 19341, 20646, 22218, 23258, 24178]

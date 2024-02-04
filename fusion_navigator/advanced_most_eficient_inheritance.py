@@ -585,6 +585,12 @@ def load_empty_total_dict():
     with open(combinations_json_path, 'r') as fp:
         total_combinations_dict = json.load(fp)
 
+    inheritance_df = pd.read_csv('/home/eduardo/Documents/Persona3/AutoTelos/inheritance_calculator/inheritance.csv')
+
+    # Convert the DataFrame to a dictionary where each key is an inheritance type
+    # and its value is another dictionary of skill types and their probabilities.
+    inheritance_dict = inheritance_df.set_index('Inheritance Type').T.to_dict('dict')
+
     total_combinations_dict_new = {}
 
     # for each key in the dictionary convert the tuple string in a tuple
@@ -597,7 +603,13 @@ def load_empty_total_dict():
 
         pair = (skill_type,skill_rank)
 
-        if pair in pair_dont_exist:
+        # if the value is equal to zero in inheritance_dict
+        current_ratio = inheritance_dict[inherit_type][skill_type]
+
+        if current_ratio == 0:
+            total_combinations_dict_new[eval_key] = 1
+
+        elif pair in pair_dont_exist:
             total_combinations_dict_new[eval_key] = 1
         else:
             total_combinations_dict_new[eval_key] = 0
@@ -839,6 +851,8 @@ for persona in tqdm(personae):
                 recipe_skills.append(s)
                 skill_type = get_skill_type(s)
                 skill_rank = get_skill_rank(s)
+                if skill_rank == -1 or skill_rank == 99:
+                    continue
                 triple_rank_skilltype_inherittype = (persona_inherit_type, skill_rank, skill_type)
                 coverage_dict[triple_rank_skilltype_inherittype] = True
                 
@@ -886,46 +900,6 @@ def coverage_of_list_of_recipes(list_of_recipes):
 recipe = all_fucking_recipes[:1]
 #print(recipe[0].coverage_dict)
 #coverage_of_list_of_recipes(recipe)
-
-
-
-
-        
-
-
-# In[7]:
-
-
-# NEVER RUN THIS
-''' 
-# make a all possible permutations of 'all_fucking_recipes' and put them all in a list
-permutations_list = []
-print("Generating all permutations for different lengths")
-for r in range(1, 4):
-    for permutation in itertools.permutations(all_fucking_recipes[:2], r):
-        permutations_list.append(permutation)
-        None
-
-print("Finished creating all permutations for different lengths")
-print("Creating list")
-
-
-max_coverage = 0
-for permutation in tqdm(permutations_list):
-    # if permutation is of type 'Recipe'
-    if isinstance(permutation, Recipe):
-        permutation = [permutation]
-    cvg = coverage_of_list_of_recipes(permutation)
-    if cvg > max_coverage:
-        max_coverage = cvg
-        max_perm = permutation
-
-for recipe in max_perm:
-    for persona in recipe.personas:
-        print(persona.name)
-    print('--')
-print(max_coverage)
-'''
 
 
 # In[8]:

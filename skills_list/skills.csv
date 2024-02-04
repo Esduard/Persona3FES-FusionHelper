@@ -12,7 +12,7 @@ Heaven's Blade,Slash,7,Michael
 Tempest Slash,Slash,7,"Siegfried, Raphael, Uriel, Thanatos, Masakado"
 Brave Blade,Slash,8,"Hermes, Thanatos, Susanoo, Atavaka, Lucifer"
 Scarlet Havoc,Slash,99,"Ares, Siegfried"
-Vorpal Blade,Slash,8,"Hermes, Siegfried, Susanoo, Chi You"
+Vorpal Blade,Slash,-1,"Hermes, Siegfried, Susanoo, Chi You"
 Bash,Strike,1,"Orpheus, Ara Mitama, Forneus, Zouchouten"
 Assault Dive,Strike,2,"Hermes, Zouchouten, Ghoul, Legion"
 Sonic Punch,Strike,2,"Jack Frost, Chimera, Polydeuces"
@@ -205,7 +205,7 @@ Resist Ice,Passive,4,"Decarabia, Suzaku, Kikuri-Hime"
 Resist Light,Passive,4,"Vasuki, Mot"
 Resist Wind,Passive,4,Dionysus
 Alertness,Passive,5,"Kumbhanda, Ganesha, Arahabaki"
-Apt Pupil,Passive,3,"Okuninushi, Hokuto Seikun, Kali, Loki, Seiten Taisei"
+Apt Pupil,Passive,5,"Okuninushi, Hokuto Seikun, Kali, Loki, Seiten Taisei"
 Endure Dark,Passive,5,"Jikokuten, Virtue, Nata Taishi, Dominion, Barong"
 Endure Light,Passive,5,"Girimehkala, Hecatoncheires"
 Evade Pierce,Passive,5,Kaiwan

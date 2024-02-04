@@ -11,7 +11,7 @@ Deathbound,6
 Tempest Slash,7
 Heaven's Blade,7
 Brave Blade,8
-Vorpal Blade,8
+Vorpal Blade,-1
 Bash,1
 Assault Dive,2
 Sonic Punch,2
@@ -129,7 +129,7 @@ Dodge Fire,3
 Dodge Ice,3
 Dodge Elec,3
 Dodge Wind,3
-Apt Pupil,3
+Apt Pupil,5
 Fear Boost,3
 Panic Boost,3
 Distress Boost,3
