@@ -5,6 +5,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 0, ('ICE', 1, 'D
 Coverage Ammount: 70
 Base Skills Ammount: 3
 Inherited Skills Ammount: 4
+key f1
 ------------------------
 
 Personas: [('kali', 58, 'Strength'), ('pazuzu', 59, 'Devil'), ('narasimha', 46, 'Strength')]
@@ -14,6 +15,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 0, ('ICE', 1, 'D
 Coverage Ammount: 69
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f2
 ------------------------
 
 Personas: [('laksmi', 63, 'Empress'), ('throne', 57, 'Justice'), ('jack frost', 11, 'Magician')]
@@ -23,6 +25,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 0, ('ICE', 1, 'D
 Coverage Ammount: 73
 Base Skills Ammount: 3
 Inherited Skills Ammount: 4
+key f3
 ------------------------
 
 Personas: [('lucifer', 95, 'Judgment'), ('vetala', 29, 'Devil'), ('inugami', 10, 'Hanged Man')]
@@ -32,6 +35,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 1, ('ICE', 1, 'D
 Coverage Ammount: 71
 Base Skills Ammount: 3
 Inherited Skills Ammount: 4
+key f4
 ------------------------
 
 Personas: [('scathach', 64, 'Priestess'), ('succubus', 48, 'Devil'), ('orobas', 39, 'Magician')]
@@ -41,6 +45,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 0, ('ICE', 1, 'D
 Coverage Ammount: 69
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f5
 ------------------------
 
 Personas: [('siegfried', 64, 'Strength'), ('eligor', 34, 'Tower'), ('power', 30, 'Justice')]
@@ -50,6 +55,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 0, ('ICE', 1, 'D
 Coverage Ammount: 73
 Base Skills Ammount: 3
 Inherited Skills Ammount: 5
+key f6
 ------------------------
 
 Personas: [('skadi', 86, 'Empress'), ('alice', 61, 'Death'), ('daisoujou', 58, 'Hierophant')]
@@ -59,6 +65,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 0, ('ICE', 1, 'D
 Coverage Ammount: 76
 Base Skills Ammount: 3
 Inherited Skills Ammount: 5
+key f7
 ------------------------
 
 Personas: [('suparna', 75, 'Sun'), ('mot', 50, 'Death'), ('sarasvati', 28, 'Priestess')]
@@ -68,6 +75,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 0, ('ICE', 1, 'D
 Coverage Ammount: 71
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f8
 ------------------------
 
 Personas: [('vishnu', 86, 'Sun'), ('hecatoncheires', 54, 'Hanged Man'), ('genbu', 44, 'Temperance')]
@@ -77,6 +85,7 @@ Coverage: {('ICE', 1, 'Almighty'): 1, ('ICE', 1, 'Bad Status'): 0, ('ICE', 1, 'D
 Coverage Ammount: 71
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f9
 ------------------------
 
 136/135 = 1.0074074074074073

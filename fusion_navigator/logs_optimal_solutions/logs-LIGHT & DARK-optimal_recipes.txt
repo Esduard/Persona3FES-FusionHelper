@@ -5,6 +5,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 78
 Base Skills Ammount: 2
 Inherited Skills Ammount: 5
+key f1
 ------------------------
 
 Personas: [('asura', 94, 'Sun'), ('skadi', 86, 'Empress'), ('surt', 58, 'Magician')]
@@ -14,6 +15,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 71
 Base Skills Ammount: 2
 Inherited Skills Ammount: 5
+key f2
 ------------------------
 
 Personas: [('baal zebul', 76, 'Moon'), ('odin', 71, 'Emperor'), ('power', 30, 'Justice')]
@@ -23,6 +25,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 77
 Base Skills Ammount: 2
 Inherited Skills Ammount: 5
+key f3
 ------------------------
 
 Personas: [('beelzebub', 86, 'Devil'), ('vetala', 29, 'Devil'), ('fortuna', 30, 'Fortune')]
@@ -32,6 +35,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 79
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f4
 ------------------------
 
 Personas: [('helel', 99, 'Star'), ('mara', 77, 'Tower'), ('cu chulainn', 43, 'Tower')]
@@ -41,6 +45,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 71
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f5
 ------------------------
 
 Personas: [('metatron', 92, 'Aeon'), ('nidhoggr', 69, 'Aeon'), ('laksmi', 63, 'Empress')]
@@ -50,6 +55,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 73
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f6
 ------------------------
 
 Personas: [('mot', 50, 'Death'), ('orobas', 39, 'Magician'), ('chimera', 9, 'Chariot')]
@@ -59,6 +65,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 74
 Base Skills Ammount: 2
 Inherited Skills Ammount: 4
+key f7
 ------------------------
 
 Personas: [('suparna', 75, 'Sun'), ('okuninushi', 57, 'Temperance'), ('genbu', 44, 'Temperance')]
@@ -68,6 +75,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 79
 Base Skills Ammount: 2
 Inherited Skills Ammount: 5
+key f8
 ------------------------
 
 Personas: [('vishnu', 86, 'Sun'), ('daisoujou', 58, 'Hierophant'), ('yamatano-orochi', 31, 'Moon')]
@@ -77,6 +85,7 @@ Coverage: {('LIGHT & DARK', 1, 'Almighty'): 1, ('LIGHT & DARK', 1, 'Bad Status')
 Coverage Ammount: 74
 Base Skills Ammount: 2
 Inherited Skills Ammount: 5
+key f9
 ------------------------
 
 135/135 = 1.0
