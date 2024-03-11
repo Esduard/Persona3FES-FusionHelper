@@ -1065,7 +1065,3 @@ print("Selected recipes (indexed at j):", selected_recipes)
 
 sys.stdout = sys.__stdout__
 f.close()
-
-
-
-# Next code refers to a failed attempt at a genetic algorithm
